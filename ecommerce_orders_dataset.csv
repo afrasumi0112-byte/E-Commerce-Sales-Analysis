@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,Country,Product,Category,Quantity,UnitPrice,PaymentMethod,Returned,DeliveryDays
+ORD0001,2024-06-12,CUST214,India,Desk,Furniture,2,188.93,COD,No,10
+ORD0002,2024-01-23,CUST704,Canada,Laptop,Electronics,1,597.18,UPI,No,2
+ORD0003,2024-05-23,CUST303,Australia,Mixer Grinder,Home & Kitchen,2,79.19,Credit Card,No,2
+ORD0004,2024-02-10,CUST814,Canada,Water Bottle,Home & Kitchen,3,9.31,Credit Card,No,8
+ORD0005,2024-01-25,CUST467,UK,Backpack,Accessories,3,42.46,Debit Card,No,8
+ORD0006,2024-01-21,CUST665,UK,Backpack,Accessories,3,40.62,COD,Yes,5
+ORD0007,2024-03-15,CUST181,USA,Smartphone,Electronics,4,286.68,Credit Card,No,7
+ORD0008,2024-02-23,CUST786,UK,Smartphone,Electronics,5,308.1,Wallet,No,4
+ORD0009,2024-04-28,CUST488,UK,Yoga Mat,Sports,2,20.74,COD,No,2
+ORD0010,2024-03-21,CUST510,UK,Smartphone,Electronics,2,324.79,Wallet,No,7
+ORD0011,2024-02-24,CUST771,Canada,Mixer Grinder,Home & Kitchen,4,74.29,UPI,No,10
+ORD0012,2024-05-17,CUST369,Australia,Mixer Grinder,Home & Kitchen,5,78.39,UPI,No,4
+ORD0013,2024-05-10,CUST605,India,Laptop,Electronics,1,604.87,UPI,No,8
+ORD0014,2024-06-01,CUST165,Canada,Mixer Grinder,Home & Kitchen,5,87.94,Wallet,No,10
+ORD0015,2024-01-03,CUST796,India,Yoga Mat,Sports,3,21.07,Credit Card,No,8
+ORD0016,2024-02-10,CUST564,India,Desk,Furniture,5,210.48,Wallet,No,6
+ORD0017,2024-06-12,CUST619,Australia,Office Chair,Furniture,2,116.97,UPI,No,10
+ORD0018,2024-01-01,CUST713,UK,Running Shoes,Sports,1,55.34,Credit Card,No,6
+ORD0019,2024-03-02,CUST159,USA,Backpack,Accessories,1,36.69,Debit Card,No,10
+ORD0020,2024-02-02,CUST231,Canada,Yoga Mat,Sports,2,19.06,Wallet,No,5
+ORD0021,2024-05-18,CUST873,USA,Desk,Furniture,4,219.81,Credit Card,No,10
+ORD0022,2024-04-25,CUST223,USA,Office Chair,Furniture,1,116.11,Wallet,No,5
+ORD0023,2024-01-02,CUST172,India,Office Chair,Furniture,1,129.73,Credit Card,Yes,5
+ORD0024,2024-03-12,CUST785,Canada,Office Chair,Furniture,5,111.18,Wallet,No,5
+ORD0025,2024-05-01,CUST926,Canada,Office Chair,Furniture,1,110.33,Debit Card,No,8
+ORD0026,2024-04-29,CUST984,India,Smartphone,Electronics,1,294.16,Credit Card,No,3
+ORD0027,2024-03-04,CUST296,USA,Yoga Mat,Sports,4,18.56,UPI,No,5
+ORD0028,2024-01-20,CUST553,Australia,Smartphone,Electronics,1,309.13,Wallet,No,3
+ORD0029,2024-03-01,CUST270,Canada,Running Shoes,Sports,4,56.56,Debit Card,No,4
+ORD0030,2024-04-07,CUST102,Canada,Desk,Furniture,4,191.41,Wallet,No,9
+ORD0031,2024-02-09,CUST294,UK,Office Chair,Furniture,1,121.9,Wallet,Yes,7
+ORD0032,2024-01-15,CUST151,Australia,Running Shoes,Sports,5,65.03,Wallet,No,10
+ORD0033,2024-01-21,CUST971,USA,Smartphone,Electronics,5,274.08,UPI,No,5
+ORD0034,2024-05-28,CUST708,India,Backpack,Accessories,1,39.35,Wallet,No,7
+ORD0035,2024-03-07,CUST309,UK,Office Chair,Furniture,3,117.5,Credit Card,No,3
+ORD0036,2024-01-03,CUST569,Australia,Backpack,Accessories,1,36.59,UPI,No,4
+ORD0037,2024-03-30,CUST170,USA,Water Bottle,Home & Kitchen,3,9.32,Wallet,No,10
+ORD0038,2024-01-03,CUST783,Australia,Desk,Furniture,1,217.56,UPI,No,3
+ORD0039,2024-05-21,CUST259,UK,Desk,Furniture,5,188.43,Credit Card,No,6
+ORD0040,2024-05-09,CUST600,UK,Laptop,Electronics,1,667.46,Credit Card,Yes,7
+ORD0041,2024-02-03,CUST752,UK,Headphones,Electronics,4,50.52,Debit Card,No,3
+ORD0042,2024-01-20,CUST807,USA,Yoga Mat,Sports,1,21.34,Wallet,No,8
+ORD0043,2024-02-02,CUST142,UK,Water Bottle,Home & Kitchen,1,10.8,UPI,No,3
+ORD0044,2024-03-31,CUST898,Australia,Mixer Grinder,Home & Kitchen,5,83.99,UPI,No,4
+ORD0045,2024-04-15,CUST125,USA,Water Bottle,Home & Kitchen,4,10.6,UPI,No,3
+ORD0046,2024-04-07,CUST993,India,Running Shoes,Sports,2,56.39,Debit Card,No,5
+ORD0047,2024-02-27,CUST124,USA,Mixer Grinder,Home & Kitchen,3,76.46,COD,No,6
+ORD0048,2024-03-30,CUST756,Australia,Mixer Grinder,Home & Kitchen,5,77.3,COD,No,6
+ORD0049,2024-02-15,CUST694,UK,Laptop,Electronics,1,662.55,Credit Card,No,7
+ORD0050,2024-04-21,CUST720,Australia,Smartphone,Electronics,4,323.97,UPI,No,8
+ORD0051,2024-01-01,CUST632,Australia,Office Chair,Furniture,3,118.35,Credit Card,No,3
+ORD0052,2024-03-17,CUST619,UK,Mixer Grinder,Home & Kitchen,3,78.44,Credit Card,No,5
+ORD0053,2024-04-17,CUST780,Canada,Headphones,Electronics,5,50.69,Debit Card,No,2
+ORD0054,2024-03-18,CUST393,USA,Mixer Grinder,Home & Kitchen,5,81.71,Credit Card,No,9
+ORD0055,2024-06-21,CUST318,Australia,Running Shoes,Sports,2,61.91,Credit Card,No,7
+ORD0056,2024-01-24,CUST938,USA,Desk,Furniture,2,212.26,UPI,Yes,5
+ORD0057,2024-05-01,CUST725,India,Running Shoes,Sports,4,64.63,Wallet,No,8
+ORD0058,2024-05-06,CUST509,USA,Headphones,Electronics,1,53.93,COD,No,5
+ORD0059,2024-02-15,CUST923,Australia,Running Shoes,Sports,1,60.69,COD,No,9
+ORD0060,2024-06-19,CUST643,Australia,Backpack,Accessories,3,43.6,Debit Card,No,10
+ORD0061,2024-04-19,CUST950,Australia,Running Shoes,Sports,2,62.92,Debit Card,No,5
+ORD0062,2024-06-12,CUST383,Australia,Running Shoes,Sports,2,57.3,COD,No,5
+ORD0063,2024-03-10,CUST443,UK,Yoga Mat,Sports,1,18.55,UPI,No,4
+ORD0064,2024-06-29,CUST319,India,Mixer Grinder,Home & Kitchen,4,77.29,Debit Card,No,5
+ORD0065,2024-04-17,CUST498,Australia,Laptop,Electronics,5,634.45,COD,No,6
+ORD0066,2024-04-09,CUST973,Canada,Yoga Mat,Sports,5,21.2,UPI,No,6
+ORD0067,2024-04-21,CUST597,India,Mixer Grinder,Home & Kitchen,3,82.7,Debit Card,No,9
+ORD0068,2024-02-02,CUST737,Australia,Laptop,Electronics,4,661.95,COD,Yes,8
+ORD0069,2024-02-04,CUST987,Canada,Headphones,Electronics,1,47.6,Credit Card,No,7
+ORD0070,2024-03-27,CUST879,Canada,Desk,Furniture,4,190.09,COD,No,10
+ORD0071,2024-01-14,CUST458,USA,Smartphone,Electronics,1,315.25,UPI,No,2
+ORD0072,2024-06-08,CUST256,USA,Headphones,Electronics,4,51.69,Wallet,No,9
+ORD0073,2024-06-28,CUST362,UK,Headphones,Electronics,5,51.07,COD,No,4
+ORD0074,2024-03-20,CUST210,Australia,Laptop,Electronics,3,659.85,Debit Card,No,5
+ORD0075,2024-01-20,CUST706,USA,Smartphone,Electronics,3,321.02,Wallet,No,2
+ORD0076,2024-03-29,CUST645,Canada,Water Bottle,Home & Kitchen,1,10.01,Credit Card,Yes,8
+ORD0077,2024-05-05,CUST208,Canada,Water Bottle,Home & Kitchen,4,10.41,Debit Card,No,10
+ORD0078,2024-06-15,CUST376,Australia,Yoga Mat,Sports,4,19.86,Wallet,No,5
+ORD0079,2024-01-23,CUST385,Canada,Office Chair,Furniture,4,121.68,Debit Card,No,9
+ORD0080,2024-03-24,CUST286,Canada,Office Chair,Furniture,3,127.15,Credit Card,No,6
+ORD0081,2024-05-22,CUST110,Australia,Office Chair,Furniture,1,113.79,Debit Card,No,5
+ORD0082,2024-06-25,CUST587,Canada,Running Shoes,Sports,1,55.12,UPI,No,5
+ORD0083,2024-03-19,CUST779,Australia,Water Bottle,Home & Kitchen,4,10.11,Credit Card,No,10
+ORD0084,2024-03-25,CUST460,Canada,Desk,Furniture,3,190.06,COD,No,7
+ORD0085,2024-01-31,CUST860,Australia,Headphones,Electronics,2,47.16,Debit Card,No,10
+ORD0086,2024-06-01,CUST389,India,Office Chair,Furniture,3,113.46,UPI,No,10
+ORD0087,2024-02-02,CUST380,India,Laptop,Electronics,5,622.98,UPI,No,9
+ORD0088,2024-01-27,CUST993,India,Backpack,Accessories,3,39.76,Debit Card,No,2
+ORD0089,2024-03-05,CUST982,Canada,Smartphone,Electronics,1,294.04,COD,No,2
+ORD0090,2024-02-08,CUST252,Australia,Desk,Furniture,1,219.76,COD,No,8
+ORD0091,2024-06-04,CUST710,Australia,Office Chair,Furniture,5,117.13,Debit Card,No,8
+ORD0092,2024-03-19,CUST682,Australia,Laptop,Electronics,5,709.81,COD,No,5
+ORD0093,2024-06-09,CUST316,UK,Smartphone,Electronics,2,284.39,Wallet,Yes,2
+ORD0094,2024-04-14,CUST561,Australia,Running Shoes,Sports,3,54.39,Credit Card,No,9
+ORD0095,2024-01-19,CUST803,USA,Desk,Furniture,5,206.45,UPI,No,10
+ORD0096,2024-02-27,CUST763,USA,Desk,Furniture,2,182.86,UPI,No,6
+ORD0097,2024-04-22,CUST227,Canada,Desk,Furniture,4,217.71,Wallet,No,9
+ORD0098,2024-01-21,CUST712,India,Mixer Grinder,Home & Kitchen,3,81.66,COD,Yes,2
+ORD0099,2024-06-21,CUST941,UK,Backpack,Accessories,1,42.1,UPI,No,9
+ORD0100,2024-03-12,CUST285,Australia,Mixer Grinder,Home & Kitchen,4,87.5,Debit Card,No,7
+ORD0101,2024-03-23,CUST786,India,Headphones,Electronics,3,49.12,Debit Card,No,8
+ORD0102,2024-05-20,CUST137,Canada,Smartphone,Electronics,3,285.14,COD,No,8
+ORD0103,2024-05-11,CUST944,India,Yoga Mat,Sports,4,19.65,UPI,No,9
+ORD0104,2024-06-09,CUST552,India,Office Chair,Furniture,3,121.18,Credit Card,No,9
+ORD0105,2024-02-01,CUST129,Australia,Office Chair,Furniture,2,115.46,COD,No,3
+ORD0106,2024-02-27,CUST961,India,Running Shoes,Sports,1,61.77,UPI,No,6
+ORD0107,2024-05-10,CUST822,UK,Mixer Grinder,Home & Kitchen,4,87.68,UPI,No,4
+ORD0108,2024-04-08,CUST295,Australia,Yoga Mat,Sports,2,21.46,Credit Card,No,8
+ORD0109,2024-03-28,CUST906,Australia,Desk,Furniture,1,191.31,Credit Card,No,9
+ORD0110,2024-02-08,CUST557,Australia,Running Shoes,Sports,3,57.99,Wallet,No,7
+ORD0111,2024-02-18,CUST814,USA,Backpack,Accessories,4,37.87,Debit Card,Yes,9
+ORD0112,2024-06-29,CUST930,Canada,Mixer Grinder,Home & Kitchen,2,79.93,COD,No,7
+ORD0113,2024-01-26,CUST995,Canada,Smartphone,Electronics,5,324.63,COD,No,8
+ORD0114,2024-06-16,CUST258,India,Running Shoes,Sports,3,58.06,Debit Card,No,7
+ORD0115,2024-06-21,CUST979,Australia,Mixer Grinder,Home & Kitchen,3,82.03,Debit Card,No,2
+ORD0116,2024-06-07,CUST170,USA,Desk,Furniture,2,209.87,Debit Card,No,3
+ORD0117,2024-04-23,CUST270,UK,Laptop,Electronics,1,627.17,COD,No,7
+ORD0118,2024-04-20,CUST249,USA,Yoga Mat,Sports,4,20.26,UPI,No,3
+ORD0119,2024-06-05,CUST991,Canada,Backpack,Accessories,2,39.98,Wallet,No,9
+ORD0120,2024-06-12,CUST360,Canada,Desk,Furniture,1,215.96,Debit Card,No,10
+ORD0121,2024-02-10,CUST175,Canada,Water Bottle,Home & Kitchen,5,9.6,Debit Card,No,9
+ORD0122,2024-03-18,CUST303,Canada,Running Shoes,Sports,1,56.85,Wallet,No,6
+ORD0123,2024-06-28,CUST402,India,Mixer Grinder,Home & Kitchen,3,72.13,COD,No,9
+ORD0124,2024-03-14,CUST894,USA,Backpack,Accessories,3,37.75,UPI,No,4
+ORD0125,2024-06-09,CUST199,India,Desk,Furniture,4,181.33,Credit Card,No,3
+ORD0126,2024-03-16,CUST434,Canada,Headphones,Electronics,2,46.32,Wallet,No,7
+ORD0127,2024-05-15,CUST613,UK,Headphones,Electronics,3,54.14,Debit Card,No,6
+ORD0128,2024-03-27,CUST923,India,Running Shoes,Sports,1,55.69,UPI,No,8
+ORD0129,2024-05-22,CUST474,India,Mixer Grinder,Home & Kitchen,1,76.23,COD,No,6
+ORD0130,2024-05-29,CUST490,UK,Smartphone,Electronics,2,298.29,Wallet,No,10
+ORD0131,2024-03-24,CUST724,USA,Smartphone,Electronics,4,324.56,Credit Card,No,3
+ORD0132,2024-02-05,CUST146,India,Desk,Furniture,4,184.64,UPI,No,4
+ORD0133,2024-04-09,CUST564,UK,Yoga Mat,Sports,4,20.35,UPI,No,3
+ORD0134,2024-05-05,CUST730,Canada,Desk,Furniture,1,207.61,UPI,No,5
+ORD0135,2024-04-02,CUST201,UK,Yoga Mat,Sports,3,18.24,Credit Card,No,3
+ORD0136,2024-04-26,CUST193,USA,Backpack,Accessories,1,36.4,Credit Card,No,4
+ORD0137,2024-05-24,CUST310,India,Yoga Mat,Sports,2,20.35,UPI,No,4
+ORD0138,2024-06-01,CUST102,UK,Headphones,Electronics,2,50.4,UPI,No,2
+ORD0139,2024-02-03,CUST115,UK,Office Chair,Furniture,5,115.77,UPI,No,4
+ORD0140,2024-04-17,CUST638,India,Smartphone,Electronics,4,296.9,Credit Card,No,3
+ORD0141,2024-04-25,CUST615,USA,Backpack,Accessories,1,41.82,Wallet,No,2
+ORD0142,2024-01-16,CUST590,Canada,Mixer Grinder,Home & Kitchen,1,79.84,Debit Card,Yes,3
+ORD0143,2024-03-23,CUST722,USA,Smartphone,Electronics,2,286.5,Wallet,No,7
+ORD0144,2024-04-07,CUST711,Australia,Desk,Furniture,4,200.22,Debit Card,Yes,3
+ORD0145,2024-06-16,CUST766,Australia,Office Chair,Furniture,4,118.84,UPI,No,9
+ORD0146,2024-04-12,CUST525,India,Water Bottle,Home & Kitchen,4,9.63,Credit Card,No,4
+ORD0147,2024-06-24,CUST585,India,Smartphone,Electronics,1,275.59,COD,No,7
+ORD0148,2024-02-03,CUST669,India,Backpack,Accessories,5,40.49,COD,No,8
+ORD0149,2024-01-14,CUST394,Australia,Desk,Furniture,3,184.14,Wallet,No,9
+ORD0150,2024-02-27,CUST967,India,Water Bottle,Home & Kitchen,5,9.74,Credit Card,No,8
+ORD0151,2024-05-23,CUST885,Australia,Backpack,Accessories,5,36.21,Credit Card,Yes,6
+ORD0152,2024-06-28,CUST880,UK,Water Bottle,Home & Kitchen,3,9.01,UPI,No,8
+ORD0153,2024-01-18,CUST245,India,Smartphone,Electronics,5,282.91,Debit Card,No,4
+ORD0154,2024-04-04,CUST419,UK,Backpack,Accessories,5,36.68,COD,No,2
+ORD0155,2024-06-21,CUST183,UK,Running Shoes,Sports,4,59.83,Debit Card,No,5
+ORD0156,2024-05-11,CUST216,UK,Mixer Grinder,Home & Kitchen,1,76.53,Wallet,No,6
+ORD0157,2024-01-12,CUST325,Canada,Backpack,Accessories,1,36.06,Credit Card,No,4
+ORD0158,2024-03-06,CUST396,UK,Smartphone,Electronics,1,299.84,Debit Card,No,8
+ORD0159,2024-05-16,CUST820,USA,Yoga Mat,Sports,5,21.33,Credit Card,Yes,2
+ORD0160,2024-04-21,CUST119,Canada,Smartphone,Electronics,3,304.55,Wallet,No,8
+ORD0161,2024-03-15,CUST217,Canada,Laptop,Electronics,3,607.34,Wallet,No,7
+ORD0162,2024-01-23,CUST547,India,Office Chair,Furniture,4,122.13,Wallet,Yes,6
+ORD0163,2024-03-27,CUST326,UK,Headphones,Electronics,1,50.1,COD,No,5
+ORD0164,2024-03-30,CUST459,USA,Office Chair,Furniture,1,111.51,UPI,No,4
+ORD0165,2024-06-16,CUST177,USA,Running Shoes,Sports,4,63.05,Wallet,No,7
+ORD0166,2024-06-09,CUST423,USA,Running Shoes,Sports,1,59.63,Credit Card,No,2
+ORD0167,2024-03-31,CUST619,India,Desk,Furniture,4,198.08,COD,No,6
+ORD0168,2024-01-20,CUST760,India,Backpack,Accessories,5,40.06,Debit Card,No,2
+ORD0169,2024-04-25,CUST929,Australia,Office Chair,Furniture,3,122.52,Wallet,No,2
+ORD0170,2024-04-25,CUST205,UK,Smartphone,Electronics,5,308.77,COD,No,9
+ORD0171,2024-04-22,CUST636,Australia,Backpack,Accessories,2,38.91,Credit Card,No,7
+ORD0172,2024-06-22,CUST712,India,Water Bottle,Home & Kitchen,1,9.66,Wallet,No,6
+ORD0173,2024-03-05,CUST841,Australia,Headphones,Electronics,3,45.82,UPI,No,6
+ORD0174,2024-06-16,CUST815,Canada,Headphones,Electronics,5,52.09,COD,No,8
+ORD0175,2024-06-13,CUST910,UK,Headphones,Electronics,5,45.93,Debit Card,No,2
+ORD0176,2024-04-02,CUST416,USA,Office Chair,Furniture,3,130.74,Debit Card,No,4
+ORD0177,2024-02-09,CUST179,UK,Smartphone,Electronics,5,316.25,Wallet,Yes,7
+ORD0178,2024-06-07,CUST234,Australia,Mixer Grinder,Home & Kitchen,2,74.6,Wallet,No,4
+ORD0179,2024-04-22,CUST144,Canada,Water Bottle,Home & Kitchen,2,10.94,Wallet,No,9
+ORD0180,2024-02-29,CUST646,USA,Desk,Furniture,4,216.16,UPI,No,9
+ORD0181,2024-04-28,CUST887,UK,Mixer Grinder,Home & Kitchen,5,80.44,UPI,No,4
+ORD0182,2024-03-05,CUST153,Canada,Water Bottle,Home & Kitchen,5,10.87,Wallet,No,6
+ORD0183,2024-01-22,CUST881,USA,Desk,Furniture,4,216.21,UPI,No,3
+ORD0184,2024-02-26,CUST936,Canada,Water Bottle,Home & Kitchen,1,9.83,Debit Card,No,5
+ORD0185,2024-04-08,CUST183,UK,Office Chair,Furniture,1,115.65,COD,No,7
+ORD0186,2024-02-07,CUST240,India,Desk,Furniture,4,207.84,UPI,No,9
+ORD0187,2024-04-24,CUST730,India,Smartphone,Electronics,1,285.36,UPI,No,10
+ORD0188,2024-04-18,CUST213,UK,Office Chair,Furniture,3,110.92,UPI,No,9
+ORD0189,2024-01-17,CUST213,Canada,Backpack,Accessories,5,36.13,Wallet,No,4
+ORD0190,2024-03-15,CUST539,India,Backpack,Accessories,3,37.92,Debit Card,No,3
+ORD0191,2024-05-14,CUST469,India,Yoga Mat,Sports,5,20.03,Wallet,No,8
+ORD0192,2024-04-30,CUST144,Canada,Water Bottle,Home & Kitchen,3,10.49,Credit Card,No,7
+ORD0193,2024-03-02,CUST850,India,Backpack,Accessories,3,37.07,Credit Card,No,4
+ORD0194,2024-06-24,CUST575,Canada,Headphones,Electronics,2,45.63,Debit Card,Yes,5
+ORD0195,2024-01-12,CUST910,USA,Laptop,Electronics,3,706.34,Wallet,No,10
+ORD0196,2024-05-01,CUST359,India,Office Chair,Furniture,3,116.57,COD,No,7
+ORD0197,2024-03-10,CUST227,UK,Mixer Grinder,Home & Kitchen,4,83.89,Debit Card,No,4
+ORD0198,2024-05-07,CUST808,Canada,Water Bottle,Home & Kitchen,5,9.53,COD,No,3
+ORD0199,2024-04-20,CUST716,USA,Yoga Mat,Sports,3,19.28,COD,No,6
+ORD0200,2024-03-19,CUST556,Australia,Mixer Grinder,Home & Kitchen,2,83.04,Credit Card,No,7
+ORD0201,2024-06-06,CUST545,UK,Laptop,Electronics,1,672.25,Debit Card,No,4
+ORD0202,2024-01-08,CUST246,Australia,Running Shoes,Sports,1,55.51,UPI,No,7
+ORD0203,2024-04-02,CUST492,Australia,Laptop,Electronics,5,604.95,Debit Card,No,7
+ORD0204,2024-04-23,CUST881,India,Backpack,Accessories,2,40.24,Debit Card,No,6
+ORD0205,2024-03-04,CUST216,India,Headphones,Electronics,4,50.18,Wallet,No,6
+ORD0206,2024-06-29,CUST556,USA,Backpack,Accessories,3,41.55,Debit Card,No,4
+ORD0207,2024-01-19,CUST562,USA,Running Shoes,Sports,1,63.73,Credit Card,No,3
+ORD0208,2024-05-20,CUST655,UK,Desk,Furniture,2,208.47,UPI,No,10
+ORD0209,2024-02-27,CUST224,USA,Headphones,Electronics,2,52.9,COD,No,7
+ORD0210,2024-04-29,CUST922,Australia,Headphones,Electronics,5,53.84,COD,No,9
+ORD0211,2024-05-14,CUST520,Canada,Backpack,Accessories,1,37.0,Credit Card,No,9
+ORD0212,2024-04-29,CUST796,Australia,Water Bottle,Home & Kitchen,2,10.76,Wallet,No,4
+ORD0213,2024-02-03,CUST543,Australia,Laptop,Electronics,1,652.35,Credit Card,No,7
+ORD0214,2024-06-30,CUST330,UK,Yoga Mat,Sports,3,21.38,Credit Card,No,10
+ORD0215,2024-03-11,CUST228,UK,Backpack,Accessories,5,36.75,UPI,No,4
+ORD0216,2024-02-13,CUST774,Australia,Backpack,Accessories,3,42.74,Wallet,Yes,2
+ORD0217,2024-01-21,CUST146,Australia,Desk,Furniture,2,210.68,Debit Card,No,2
+ORD0218,2024-05-07,CUST742,Australia,Desk,Furniture,3,199.32,Debit Card,No,3
+ORD0219,2024-06-25,CUST161,USA,Running Shoes,Sports,4,59.81,UPI,No,4
+ORD0220,2024-03-21,CUST982,UK,Water Bottle,Home & Kitchen,4,9.26,Credit Card,No,3
+ORD0221,2024-03-22,CUST347,Canada,Smartphone,Electronics,3,296.98,UPI,Yes,6
+ORD0222,2024-04-08,CUST984,Australia,Mixer Grinder,Home & Kitchen,2,87.4,UPI,No,7
+ORD0223,2024-02-18,CUST881,USA,Running Shoes,Sports,5,59.6,Credit Card,No,3
+ORD0224,2024-04-10,CUST617,Canada,Office Chair,Furniture,2,122.0,COD,Yes,9
+ORD0225,2024-06-01,CUST963,Canada,Desk,Furniture,5,180.33,COD,No,6
+ORD0226,2024-04-03,CUST882,Canada,Water Bottle,Home & Kitchen,1,9.8,Wallet,No,7
+ORD0227,2024-05-21,CUST395,India,Mixer Grinder,Home & Kitchen,5,79.21,Wallet,No,3
+ORD0228,2024-02-02,CUST199,Canada,Water Bottle,Home & Kitchen,3,10.12,Credit Card,No,5
+ORD0229,2024-06-03,CUST621,Canada,Yoga Mat,Sports,1,18.18,UPI,No,9
+ORD0230,2024-05-12,CUST567,USA,Backpack,Accessories,5,37.12,Wallet,No,8
+ORD0231,2024-06-06,CUST857,UK,Backpack,Accessories,3,40.06,Wallet,No,6
+ORD0232,2024-05-01,CUST935,India,Water Bottle,Home & Kitchen,3,10.35,Debit Card,No,2
+ORD0233,2024-06-01,CUST585,UK,Backpack,Accessories,5,37.82,COD,No,4
+ORD0234,2024-05-14,CUST744,Australia,Mixer Grinder,Home & Kitchen,2,85.15,UPI,Yes,3
+ORD0235,2024-02-18,CUST119,Canada,Water Bottle,Home & Kitchen,4,9.3,UPI,No,9
+ORD0236,2024-01-16,CUST822,USA,Yoga Mat,Sports,2,20.24,Debit Card,No,7
+ORD0237,2024-02-14,CUST570,Australia,Water Bottle,Home & Kitchen,5,9.71,Credit Card,No,5
+ORD0238,2024-03-04,CUST385,Australia,Desk,Furniture,2,217.66,Credit Card,No,5
+ORD0239,2024-06-25,CUST821,Canada,Water Bottle,Home & Kitchen,4,9.7,Credit Card,No,10
+ORD0240,2024-04-07,CUST504,UK,Headphones,Electronics,3,45.42,COD,No,9
+ORD0241,2024-06-16,CUST362,Canada,Office Chair,Furniture,2,127.87,Credit Card,No,6
+ORD0242,2024-02-05,CUST211,Australia,Backpack,Accessories,2,37.94,Wallet,No,5
+ORD0243,2024-01-14,CUST202,Canada,Water Bottle,Home & Kitchen,4,9.2,UPI,Yes,10
+ORD0244,2024-02-10,CUST516,Canada,Running Shoes,Sports,2,63.07,Credit Card,No,2
+ORD0245,2024-01-23,CUST767,Australia,Office Chair,Furniture,5,125.73,COD,No,4
+ORD0246,2024-04-16,CUST957,USA,Laptop,Electronics,4,687.43,UPI,No,6
+ORD0247,2024-01-10,CUST109,UK,Backpack,Accessories,5,36.86,Credit Card,No,10
+ORD0248,2024-05-14,CUST605,USA,Yoga Mat,Sports,4,19.09,COD,No,9
+ORD0249,2024-06-14,CUST363,USA,Laptop,Electronics,3,687.8,Wallet,No,5
+ORD0250,2024-02-14,CUST725,Canada,Mixer Grinder,Home & Kitchen,5,77.25,Debit Card,No,4
+ORD0251,2024-02-05,CUST588,UK,Office Chair,Furniture,1,114.26,UPI,No,6
+ORD0252,2024-03-25,CUST409,Australia,Backpack,Accessories,1,38.09,Credit Card,No,2
+ORD0253,2024-06-19,CUST221,Canada,Desk,Furniture,2,196.22,Wallet,No,6
+ORD0254,2024-06-25,CUST220,UK,Water Bottle,Home & Kitchen,5,9.44,UPI,No,9
+ORD0255,2024-06-04,CUST482,Canada,Yoga Mat,Sports,4,21.03,UPI,No,3
+ORD0256,2024-05-14,CUST557,Australia,Water Bottle,Home & Kitchen,1,10.83,COD,Yes,10
+ORD0257,2024-05-09,CUST307,Australia,Yoga Mat,Sports,2,18.66,Wallet,No,5
+ORD0258,2024-05-29,CUST600,India,Yoga Mat,Sports,4,21.23,Debit Card,No,8
+ORD0259,2024-04-26,CUST677,India,Yoga Mat,Sports,4,20.69,Credit Card,No,8
+ORD0260,2024-03-06,CUST936,India,Office Chair,Furniture,5,109.75,Debit Card,No,3
+ORD0261,2024-05-18,CUST161,India,Running Shoes,Sports,1,57.45,UPI,No,8
+ORD0262,2024-04-05,CUST491,Canada,Mixer Grinder,Home & Kitchen,4,73.28,Wallet,No,7
+ORD0263,2024-01-31,CUST282,Australia,Mixer Grinder,Home & Kitchen,5,74.04,UPI,No,2
+ORD0264,2024-03-17,CUST574,Australia,Mixer Grinder,Home & Kitchen,5,78.07,UPI,No,7
+ORD0265,2024-02-09,CUST382,USA,Smartphone,Electronics,1,318.57,Debit Card,No,2
+ORD0266,2024-03-02,CUST311,India,Smartphone,Electronics,5,272.01,Wallet,No,2
+ORD0267,2024-03-03,CUST858,India,Mixer Grinder,Home & Kitchen,4,75.75,UPI,No,2
+ORD0268,2024-02-05,CUST615,UK,Office Chair,Furniture,5,115.65,Wallet,No,7
+ORD0269,2024-03-01,CUST409,USA,Yoga Mat,Sports,2,19.65,Credit Card,Yes,4
+ORD0270,2024-06-09,CUST795,Canada,Yoga Mat,Sports,4,18.19,Credit Card,No,8
+ORD0271,2024-05-14,CUST426,Canada,Mixer Grinder,Home & Kitchen,2,76.8,UPI,No,9
+ORD0272,2024-03-02,CUST969,USA,Desk,Furniture,2,212.23,COD,No,8
+ORD0273,2024-05-22,CUST642,USA,Mixer Grinder,Home & Kitchen,2,76.08,Credit Card,No,9
+ORD0274,2024-04-04,CUST194,Australia,Office Chair,Furniture,1,114.44,Wallet,No,3
+ORD0275,2024-02-18,CUST923,Australia,Yoga Mat,Sports,2,19.92,Credit Card,No,2
+ORD0276,2024-02-24,CUST294,India,Running Shoes,Sports,2,62.35,UPI,No,5
+ORD0277,2024-05-21,CUST429,UK,Mixer Grinder,Home & Kitchen,4,80.54,Credit Card,No,7
+ORD0278,2024-05-11,CUST609,Canada,Smartphone,Electronics,4,315.7,Credit Card,No,7
+ORD0279,2024-03-21,CUST523,India,Backpack,Accessories,2,41.93,COD,No,8
+ORD0280,2024-03-16,CUST256,USA,Water Bottle,Home & Kitchen,2,9.76,UPI,No,7
+ORD0281,2024-03-06,CUST881,Canada,Running Shoes,Sports,4,56.02,Credit Card,No,10
+ORD0282,2024-05-05,CUST288,Australia,Laptop,Electronics,5,589.4,COD,No,2
+ORD0283,2024-01-02,CUST522,USA,Office Chair,Furniture,1,124.97,COD,No,9
+ORD0284,2024-04-05,CUST161,Australia,Backpack,Accessories,4,41.27,COD,Yes,10
+ORD0285,2024-04-15,CUST112,India,Yoga Mat,Sports,3,20.14,Credit Card,Yes,8
+ORD0286,2024-02-15,CUST209,India,Yoga Mat,Sports,2,18.96,Wallet,No,7
+ORD0287,2024-03-09,CUST914,Canada,Smartphone,Electronics,3,327.56,Debit Card,No,5
+ORD0288,2024-03-17,CUST800,India,Laptop,Electronics,1,637.69,Debit Card,No,2
+ORD0289,2024-06-12,CUST109,USA,Smartphone,Electronics,4,320.72,Credit Card,No,3
+ORD0290,2024-05-15,CUST143,USA,Office Chair,Furniture,5,119.41,COD,No,6
+ORD0291,2024-05-19,CUST677,India,Headphones,Electronics,3,45.16,UPI,No,8
+ORD0292,2024-01-20,CUST406,USA,Backpack,Accessories,2,40.53,Debit Card,No,10
+ORD0293,2024-03-25,CUST493,USA,Smartphone,Electronics,5,314.73,Credit Card,Yes,8
+ORD0294,2024-02-29,CUST958,India,Water Bottle,Home & Kitchen,5,10.54,Wallet,No,7
+ORD0295,2024-01-08,CUST749,UK,Running Shoes,Sports,4,56.74,Wallet,No,8
+ORD0296,2024-02-17,CUST796,Australia,Mixer Grinder,Home & Kitchen,1,84.35,Credit Card,No,3
+ORD0297,2024-01-22,CUST374,USA,Mixer Grinder,Home & Kitchen,2,83.83,Credit Card,No,3
+ORD0298,2024-01-02,CUST415,Canada,Water Bottle,Home & Kitchen,3,9.2,COD,No,9
+ORD0299,2024-05-22,CUST668,Australia,Mixer Grinder,Home & Kitchen,1,72.42,Credit Card,No,7
+ORD0300,2024-04-08,CUST112,UK,Mixer Grinder,Home & Kitchen,4,84.47,Wallet,No,5
+ORD0301,2024-05-26,CUST633,USA,Mixer Grinder,Home & Kitchen,2,74.22,Credit Card,No,4
+ORD0302,2024-01-17,CUST271,Canada,Desk,Furniture,4,191.99,COD,No,5
+ORD0303,2024-06-09,CUST607,Australia,Backpack,Accessories,2,39.66,UPI,No,8
+ORD0304,2024-03-26,CUST961,Australia,Mixer Grinder,Home & Kitchen,3,79.04,Debit Card,No,4
+ORD0305,2024-03-17,CUST428,Australia,Office Chair,Furniture,4,115.54,Debit Card,No,6
+ORD0306,2024-06-26,CUST748,Canada,Backpack,Accessories,2,38.61,Credit Card,No,8
+ORD0307,2024-04-03,CUST216,Australia,Office Chair,Furniture,5,131.93,UPI,No,10
+ORD0308,2024-01-07,CUST844,Canada,Office Chair,Furniture,4,127.14,COD,No,8
+ORD0309,2024-06-21,CUST611,USA,Desk,Furniture,2,190.11,UPI,No,8
+ORD0310,2024-01-19,CUST559,Australia,Running Shoes,Sports,5,58.81,Wallet,No,8
+ORD0311,2024-05-19,CUST137,UK,Yoga Mat,Sports,5,20.55,COD,No,5
+ORD0312,2024-06-17,CUST780,UK,Headphones,Electronics,5,45.44,Debit Card,No,7
+ORD0313,2024-04-20,CUST208,India,Smartphone,Electronics,3,283.32,Wallet,No,5
+ORD0314,2024-04-24,CUST483,Canada,Running Shoes,Sports,5,62.29,UPI,No,2
+ORD0315,2024-05-03,CUST207,UK,Mixer Grinder,Home & Kitchen,1,73.86,UPI,No,7
+ORD0316,2024-04-26,CUST903,USA,Yoga Mat,Sports,4,19.39,COD,No,9
+ORD0317,2024-03-22,CUST168,UK,Laptop,Electronics,1,587.94,Credit Card,No,4
+ORD0318,2024-03-03,CUST628,USA,Yoga Mat,Sports,2,19.32,Debit Card,No,5
+ORD0319,2024-04-13,CUST744,USA,Headphones,Electronics,4,48.96,Wallet,No,9
+ORD0320,2024-05-31,CUST539,Canada,Laptop,Electronics,2,611.75,COD,No,10
+ORD0321,2024-02-17,CUST474,UK,Office Chair,Furniture,4,110.73,Debit Card,No,7
+ORD0322,2024-06-01,CUST497,Australia,Mixer Grinder,Home & Kitchen,5,73.83,Credit Card,No,4
+ORD0323,2024-06-21,CUST822,UK,Backpack,Accessories,5,36.68,UPI,No,5
+ORD0324,2024-03-19,CUST219,USA,Water Bottle,Home & Kitchen,2,10.02,Debit Card,No,8
+ORD0325,2024-04-18,CUST290,Canada,Yoga Mat,Sports,2,20.22,Debit Card,No,4
+ORD0326,2024-03-21,CUST962,Canada,Backpack,Accessories,1,42.92,COD,No,5
+ORD0327,2024-04-08,CUST675,Australia,Running Shoes,Sports,4,62.22,Debit Card,No,9
+ORD0328,2024-05-05,CUST271,India,Backpack,Accessories,1,42.37,UPI,No,6
+ORD0329,2024-02-27,CUST650,UK,Headphones,Electronics,4,50.66,Debit Card,No,3
+ORD0330,2024-05-26,CUST216,UK,Yoga Mat,Sports,3,20.17,COD,No,9
+ORD0331,2024-05-19,CUST323,Canada,Smartphone,Electronics,2,287.86,COD,No,7
+ORD0332,2024-01-23,CUST549,India,Office Chair,Furniture,2,127.46,Wallet,No,8
+ORD0333,2024-02-12,CUST730,USA,Office Chair,Furniture,2,127.33,Wallet,No,6
+ORD0334,2024-06-01,CUST651,USA,Water Bottle,Home & Kitchen,3,9.58,Credit Card,No,10
+ORD0335,2024-06-22,CUST934,India,Headphones,Electronics,4,54.19,Credit Card,No,4
+ORD0336,2024-06-28,CUST986,USA,Office Chair,Furniture,2,125.07,UPI,No,8
+ORD0337,2024-05-05,CUST245,Australia,Desk,Furniture,4,195.01,COD,No,3
+ORD0338,2024-04-13,CUST627,UK,Water Bottle,Home & Kitchen,4,10.9,Credit Card,No,3
+ORD0339,2024-04-27,CUST750,UK,Smartphone,Electronics,5,293.86,Debit Card,No,9
+ORD0340,2024-03-09,CUST430,UK,Water Bottle,Home & Kitchen,5,10.16,Wallet,No,7
+ORD0341,2024-06-23,CUST880,India,Laptop,Electronics,1,666.4,Debit Card,Yes,4
+ORD0342,2024-04-22,CUST567,India,Mixer Grinder,Home & Kitchen,2,87.93,UPI,No,6
+ORD0343,2024-02-10,CUST995,UK,Smartphone,Electronics,3,285.02,Credit Card,No,4
+ORD0344,2024-01-14,CUST505,UK,Office Chair,Furniture,4,123.73,COD,Yes,9
+ORD0345,2024-01-20,CUST235,Australia,Office Chair,Furniture,5,124.32,COD,Yes,7
+ORD0346,2024-01-31,CUST980,Canada,Headphones,Electronics,4,45.71,Debit Card,Yes,3
+ORD0347,2024-01-27,CUST420,UK,Desk,Furniture,2,195.31,UPI,No,4
+ORD0348,2024-01-18,CUST643,Australia,Laptop,Electronics,5,669.5,Debit Card,No,5
+ORD0349,2024-06-09,CUST866,USA,Mixer Grinder,Home & Kitchen,5,82.99,UPI,Yes,3
+ORD0350,2024-02-05,CUST870,India,Backpack,Accessories,4,38.81,Debit Card,No,4
+ORD0351,2024-03-04,CUST383,India,Office Chair,Furniture,5,122.42,Wallet,No,2
+ORD0352,2024-06-17,CUST996,UK,Office Chair,Furniture,5,122.57,UPI,No,6
+ORD0353,2024-06-14,CUST155,USA,Running Shoes,Sports,4,55.35,Debit Card,No,3
+ORD0354,2024-05-15,CUST112,UK,Water Bottle,Home & Kitchen,2,9.77,Wallet,No,10
+ORD0355,2024-06-23,CUST276,Canada,Smartphone,Electronics,1,305.24,COD,No,2
+ORD0356,2024-01-16,CUST908,Canada,Yoga Mat,Sports,3,20.51,Wallet,No,8
+ORD0357,2024-06-28,CUST511,India,Yoga Mat,Sports,5,20.46,Credit Card,Yes,3
+ORD0358,2024-05-10,CUST308,USA,Yoga Mat,Sports,3,19.56,COD,No,8
+ORD0359,2024-03-02,CUST159,USA,Smartphone,Electronics,4,276.96,Wallet,No,6
+ORD0360,2024-06-19,CUST859,USA,Smartphone,Electronics,1,312.47,COD,No,7
+ORD0361,2024-05-13,CUST629,UK,Headphones,Electronics,3,46.27,Credit Card,No,3
+ORD0362,2024-01-08,CUST443,Canada,Desk,Furniture,5,182.55,Wallet,No,9
+ORD0363,2024-04-26,CUST623,UK,Laptop,Electronics,4,696.72,UPI,No,6
+ORD0364,2024-01-27,CUST687,India,Office Chair,Furniture,5,108.06,COD,No,9
+ORD0365,2024-04-03,CUST492,USA,Headphones,Electronics,1,50.53,Debit Card,No,5
+ORD0366,2024-04-16,CUST837,UK,Desk,Furniture,1,202.86,COD,No,2
+ORD0367,2024-02-15,CUST328,Australia,Laptop,Electronics,4,593.96,Debit Card,No,6
+ORD0368,2024-03-24,CUST188,Australia,Running Shoes,Sports,1,58.43,Credit Card,No,6
+ORD0369,2024-06-08,CUST348,Canada,Water Bottle,Home & Kitchen,5,10.94,UPI,No,10
+ORD0370,2024-03-03,CUST254,India,Mixer Grinder,Home & Kitchen,1,75.73,Credit Card,No,2
+ORD0371,2024-03-26,CUST101,Canada,Desk,Furniture,1,188.21,UPI,No,2
+ORD0372,2024-02-06,CUST828,UK,Smartphone,Electronics,1,325.28,Wallet,No,7
+ORD0373,2024-04-27,CUST865,India,Backpack,Accessories,1,40.04,Debit Card,Yes,2
+ORD0374,2024-04-21,CUST778,USA,Office Chair,Furniture,3,114.26,Credit Card,No,8
+ORD0375,2024-06-28,CUST951,UK,Water Bottle,Home & Kitchen,4,9.54,COD,No,4
+ORD0376,2024-05-29,CUST211,USA,Smartphone,Electronics,2,296.97,Credit Card,No,10
+ORD0377,2024-04-01,CUST888,USA,Running Shoes,Sports,3,59.56,COD,Yes,6
+ORD0378,2024-06-29,CUST813,Australia,Laptop,Electronics,2,693.67,Credit Card,No,5
+ORD0379,2024-04-01,CUST505,Australia,Laptop,Electronics,3,618.82,UPI,Yes,8
+ORD0380,2024-04-25,CUST669,Australia,Office Chair,Furniture,1,119.09,UPI,No,2
+ORD0381,2024-02-26,CUST233,USA,Mixer Grinder,Home & Kitchen,3,82.98,COD,No,6
+ORD0382,2024-01-20,CUST122,India,Office Chair,Furniture,4,127.42,COD,No,7
+ORD0383,2024-02-01,CUST143,Canada,Laptop,Electronics,2,705.14,Debit Card,No,8
+ORD0384,2024-05-07,CUST130,Canada,Mixer Grinder,Home & Kitchen,2,77.66,UPI,No,9
+ORD0385,2024-02-08,CUST135,Australia,Backpack,Accessories,5,37.97,Credit Card,No,10
+ORD0386,2024-05-02,CUST162,India,Desk,Furniture,4,185.49,UPI,No,10
+ORD0387,2024-03-04,CUST745,Australia,Laptop,Electronics,4,686.65,Credit Card,No,9
+ORD0388,2024-03-29,CUST679,Australia,Water Bottle,Home & Kitchen,4,9.54,COD,No,5
+ORD0389,2024-01-08,CUST930,UK,Laptop,Electronics,4,653.83,Wallet,No,4
+ORD0390,2024-01-26,CUST353,USA,Desk,Furniture,5,212.65,COD,No,5
+ORD0391,2024-05-27,CUST966,Canada,Water Bottle,Home & Kitchen,2,9.35,Wallet,No,7
+ORD0392,2024-05-31,CUST128,UK,Backpack,Accessories,5,37.14,UPI,No,9
+ORD0393,2024-05-18,CUST416,USA,Running Shoes,Sports,1,55.08,UPI,No,2
+ORD0394,2024-05-14,CUST589,India,Water Bottle,Home & Kitchen,5,9.4,UPI,No,4
+ORD0395,2024-03-23,CUST160,India,Headphones,Electronics,5,52.05,UPI,No,10
+ORD0396,2024-04-03,CUST174,UK,Mixer Grinder,Home & Kitchen,5,73.62,Credit Card,No,4
+ORD0397,2024-04-21,CUST910,Canada,Water Bottle,Home & Kitchen,2,10.41,Wallet,No,7
+ORD0398,2024-02-27,CUST781,Australia,Headphones,Electronics,4,48.07,Credit Card,No,2
+ORD0399,2024-06-28,CUST686,Canada,Backpack,Accessories,1,37.46,Credit Card,No,5
+ORD0400,2024-06-12,CUST679,India,Running Shoes,Sports,2,57.97,COD,No,7
+ORD0401,2024-02-12,CUST751,India,Water Bottle,Home & Kitchen,4,9.02,UPI,No,3
+ORD0402,2024-03-30,CUST362,India,Laptop,Electronics,1,635.17,Debit Card,No,8
+ORD0403,2024-05-06,CUST487,UK,Yoga Mat,Sports,4,18.41,Debit Card,No,5
+ORD0404,2024-02-11,CUST562,India,Laptop,Electronics,3,587.61,Credit Card,No,3
+ORD0405,2024-03-28,CUST274,Canada,Headphones,Electronics,1,50.47,COD,No,9
+ORD0406,2024-06-29,CUST131,Canada,Headphones,Electronics,5,53.9,UPI,Yes,7
+ORD0407,2024-02-22,CUST294,Canada,Yoga Mat,Sports,5,19.06,Credit Card,No,3
+ORD0408,2024-01-13,CUST502,Australia,Yoga Mat,Sports,4,18.61,Credit Card,Yes,3
+ORD0409,2024-03-16,CUST943,Australia,Running Shoes,Sports,2,55.16,UPI,No,6
+ORD0410,2024-01-21,CUST584,India,Desk,Furniture,4,198.84,Credit Card,Yes,10
+ORD0411,2024-04-09,CUST289,UK,Mixer Grinder,Home & Kitchen,3,74.99,COD,No,9
+ORD0412,2024-03-08,CUST331,UK,Backpack,Accessories,1,37.21,COD,Yes,7
+ORD0413,2024-05-18,CUST523,Australia,Office Chair,Furniture,5,109.46,Debit Card,No,8
+ORD0414,2024-05-17,CUST803,Canada,Backpack,Accessories,2,39.81,COD,No,2
+ORD0415,2024-05-08,CUST684,Australia,Backpack,Accessories,5,37.18,Debit Card,No,4
+ORD0416,2024-02-24,CUST927,USA,Headphones,Electronics,1,49.23,Debit Card,No,4
+ORD0417,2024-06-01,CUST364,UK,Smartphone,Electronics,1,293.29,Debit Card,No,6
+ORD0418,2024-05-13,CUST569,India,Backpack,Accessories,5,40.18,Debit Card,No,4
+ORD0419,2024-02-07,CUST680,Australia,Backpack,Accessories,1,43.4,Wallet,No,6
+ORD0420,2024-05-17,CUST452,Canada,Desk,Furniture,4,206.19,Wallet,No,2
+ORD0421,2024-02-14,CUST382,Canada,Headphones,Electronics,5,51.09,Debit Card,Yes,7
+ORD0422,2024-06-25,CUST343,India,Running Shoes,Sports,3,64.76,COD,No,6
+ORD0423,2024-03-20,CUST387,Canada,Smartphone,Electronics,2,278.06,Debit Card,No,7
+ORD0424,2024-03-09,CUST846,Canada,Backpack,Accessories,1,37.5,UPI,No,8
+ORD0425,2024-05-04,CUST877,Australia,Water Bottle,Home & Kitchen,1,10.03,UPI,Yes,10
+ORD0426,2024-04-13,CUST238,Australia,Backpack,Accessories,1,37.39,UPI,No,5
+ORD0427,2024-01-09,CUST567,India,Water Bottle,Home & Kitchen,2,9.55,Debit Card,No,3
+ORD0428,2024-06-23,CUST131,USA,Water Bottle,Home & Kitchen,4,10.19,UPI,No,9
+ORD0429,2024-05-30,CUST664,UK,Water Bottle,Home & Kitchen,2,10.68,Credit Card,No,3
+ORD0430,2024-03-13,CUST128,Canada,Laptop,Electronics,2,696.0,UPI,No,5
+ORD0431,2024-06-22,CUST311,UK,Mixer Grinder,Home & Kitchen,5,72.32,COD,No,4
+ORD0432,2024-06-14,CUST277,Australia,Laptop,Electronics,2,617.81,Credit Card,No,6
+ORD0433,2024-04-18,CUST485,UK,Running Shoes,Sports,3,56.62,Credit Card,No,8
+ORD0434,2024-05-29,CUST204,India,Yoga Mat,Sports,3,20.25,Wallet,No,6
+ORD0435,2024-06-24,CUST210,Canada,Smartphone,Electronics,3,329.3,Credit Card,No,6
+ORD0436,2024-06-16,CUST828,UK,Office Chair,Furniture,2,120.42,UPI,No,8
+ORD0437,2024-06-18,CUST427,USA,Laptop,Electronics,4,714.67,Credit Card,No,8
+ORD0438,2024-04-09,CUST854,India,Backpack,Accessories,5,42.53,Credit Card,No,5
+ORD0439,2024-06-24,CUST647,Canada,Water Bottle,Home & Kitchen,5,9.6,UPI,No,10
+ORD0440,2024-02-16,CUST400,India,Running Shoes,Sports,2,62.89,Wallet,No,4
+ORD0441,2024-06-23,CUST443,India,Office Chair,Furniture,3,113.36,Credit Card,No,7
+ORD0442,2024-04-05,CUST366,Australia,Desk,Furniture,4,214.05,Debit Card,Yes,3
+ORD0443,2024-04-30,CUST299,Australia,Smartphone,Electronics,4,301.79,Debit Card,Yes,4
+ORD0444,2024-02-05,CUST305,UK,Mixer Grinder,Home & Kitchen,5,86.29,Debit Card,No,4
+ORD0445,2024-01-21,CUST599,UK,Headphones,Electronics,3,51.34,COD,No,5
+ORD0446,2024-02-13,CUST690,USA,Running Shoes,Sports,1,55.55,Debit Card,No,8
+ORD0447,2024-04-19,CUST588,Canada,Laptop,Electronics,1,654.39,Credit Card,No,7
+ORD0448,2024-05-15,CUST295,India,Laptop,Electronics,2,614.41,Credit Card,No,3
+ORD0449,2024-04-08,CUST615,Australia,Desk,Furniture,2,182.61,COD,No,6
+ORD0450,2024-04-26,CUST845,Australia,Backpack,Accessories,5,38.7,UPI,No,9
+ORD0451,2024-04-01,CUST868,USA,Headphones,Electronics,4,45.19,UPI,No,4
+ORD0452,2024-02-24,CUST851,India,Backpack,Accessories,5,37.35,Credit Card,No,2
+ORD0453,2024-04-06,CUST997,UK,Yoga Mat,Sports,5,18.19,COD,No,2
+ORD0454,2024-01-13,CUST806,India,Mixer Grinder,Home & Kitchen,4,78.08,Wallet,No,4
+ORD0455,2024-02-22,CUST811,India,Desk,Furniture,4,206.47,Wallet,No,4
+ORD0456,2024-04-17,CUST950,India,Yoga Mat,Sports,5,18.47,COD,No,9
+ORD0457,2024-02-20,CUST723,USA,Desk,Furniture,5,218.92,Credit Card,No,6
+ORD0458,2024-02-11,CUST140,Australia,Running Shoes,Sports,2,62.26,Debit Card,No,2
+ORD0459,2024-01-04,CUST787,India,Smartphone,Electronics,5,310.14,UPI,No,10
+ORD0460,2024-01-20,CUST840,India,Desk,Furniture,2,198.27,Credit Card,No,2
+ORD0461,2024-01-26,CUST932,USA,Laptop,Electronics,3,631.83,Credit Card,No,3
+ORD0462,2024-01-25,CUST971,India,Laptop,Electronics,2,671.24,UPI,No,9
+ORD0463,2024-06-08,CUST374,India,Water Bottle,Home & Kitchen,3,9.37,Debit Card,No,9
+ORD0464,2024-03-10,CUST955,Canada,Running Shoes,Sports,4,61.79,UPI,No,2
+ORD0465,2024-02-10,CUST206,Canada,Backpack,Accessories,4,42.42,Debit Card,No,8
+ORD0466,2024-04-01,CUST726,India,Headphones,Electronics,4,54.2,COD,No,9
+ORD0467,2024-01-12,CUST164,UK,Water Bottle,Home & Kitchen,1,10.41,Wallet,No,5
+ORD0468,2024-06-20,CUST994,UK,Yoga Mat,Sports,5,20.75,Wallet,Yes,5
+ORD0469,2024-05-03,CUST454,Canada,Headphones,Electronics,5,53.92,Wallet,Yes,4
+ORD0470,2024-05-09,CUST969,Canada,Running Shoes,Sports,2,54.9,Debit Card,No,7
+ORD0471,2024-03-12,CUST151,Australia,Office Chair,Furniture,5,123.44,Debit Card,No,3
+ORD0472,2024-04-27,CUST554,Australia,Running Shoes,Sports,1,64.28,Debit Card,No,9
+ORD0473,2024-06-16,CUST118,India,Mixer Grinder,Home & Kitchen,4,72.57,Wallet,Yes,3
+ORD0474,2024-06-03,CUST733,UK,Yoga Mat,Sports,5,18.83,Debit Card,No,7
+ORD0475,2024-01-14,CUST936,USA,Running Shoes,Sports,3,60.72,Wallet,No,7
+ORD0476,2024-04-25,CUST216,India,Office Chair,Furniture,1,116.19,Credit Card,No,7
+ORD0477,2024-06-28,CUST208,India,Headphones,Electronics,4,46.4,Debit Card,No,5
+ORD0478,2024-02-18,CUST223,Canada,Office Chair,Furniture,4,127.79,UPI,No,3
+ORD0479,2024-04-16,CUST147,Australia,Smartphone,Electronics,4,297.44,Wallet,No,4
+ORD0480,2024-05-07,CUST104,Australia,Laptop,Electronics,5,706.59,Wallet,No,10
+ORD0481,2024-02-15,CUST808,Australia,Headphones,Electronics,2,46.04,Wallet,No,7
+ORD0482,2024-05-09,CUST493,Canada,Backpack,Accessories,2,38.19,Credit Card,No,9
+ORD0483,2024-02-04,CUST241,Canada,Backpack,Accessories,5,38.39,Wallet,No,10
+ORD0484,2024-06-10,CUST322,USA,Office Chair,Furniture,5,125.15,Credit Card,No,4
+ORD0485,2024-06-30,CUST765,USA,Yoga Mat,Sports,5,20.78,Credit Card,No,7
+ORD0486,2024-05-23,CUST591,Australia,Backpack,Accessories,4,41.39,Wallet,No,8
+ORD0487,2024-01-04,CUST635,India,Laptop,Electronics,4,603.89,COD,No,4
+ORD0488,2024-03-14,CUST799,UK,Headphones,Electronics,1,51.91,Credit Card,No,10
+ORD0489,2024-01-09,CUST467,Canada,Smartphone,Electronics,5,322.08,Wallet,No,10
+ORD0490,2024-04-09,CUST343,Australia,Desk,Furniture,1,217.06,Debit Card,No,7
+ORD0491,2024-05-21,CUST155,India,Desk,Furniture,2,204.82,Debit Card,No,7
+ORD0492,2024-05-30,CUST659,Australia,Office Chair,Furniture,2,115.06,UPI,No,3
+ORD0493,2024-02-17,CUST277,Australia,Smartphone,Electronics,4,272.44,Credit Card,No,4
+ORD0494,2024-02-11,CUST698,UK,Laptop,Electronics,3,645.62,UPI,Yes,7
+ORD0495,2024-06-01,CUST152,Australia,Desk,Furniture,4,211.6,Wallet,No,7
+ORD0496,2024-05-14,CUST325,USA,Yoga Mat,Sports,1,21.15,UPI,No,10
+ORD0497,2024-04-13,CUST194,UK,Office Chair,Furniture,2,123.92,Credit Card,No,5
+ORD0498,2024-06-07,CUST643,Canada,Yoga Mat,Sports,1,18.46,Credit Card,No,5
+ORD0499,2024-01-11,CUST798,UK,Mixer Grinder,Home & Kitchen,1,78.17,Wallet,No,2
+ORD0500,2024-05-12,CUST941,UK,Yoga Mat,Sports,5,19.78,COD,No,5
+ORD0501,2024-03-23,CUST626,India,Smartphone,Electronics,2,328.3,Wallet,No,3
+ORD0502,2024-02-23,CUST786,USA,Mixer Grinder,Home & Kitchen,1,75.29,Debit Card,No,3
+ORD0503,2024-06-24,CUST257,India,Running Shoes,Sports,3,54.45,COD,Yes,6
+ORD0504,2024-05-22,CUST172,Australia,Office Chair,Furniture,3,117.78,Debit Card,No,8
+ORD0505,2024-03-21,CUST117,Canada,Smartphone,Electronics,5,270.35,Wallet,Yes,2
+ORD0506,2024-06-28,CUST968,India,Water Bottle,Home & Kitchen,5,9.21,Credit Card,No,6
+ORD0507,2024-04-22,CUST490,Canada,Laptop,Electronics,4,605.32,UPI,No,8
+ORD0508,2024-05-19,CUST402,USA,Desk,Furniture,3,218.3,COD,No,10
+ORD0509,2024-02-06,CUST226,India,Laptop,Electronics,5,662.57,Wallet,No,3
+ORD0510,2024-03-19,CUST315,UK,Office Chair,Furniture,4,129.74,Wallet,No,4
+ORD0511,2024-02-26,CUST731,UK,Office Chair,Furniture,1,112.35,Wallet,No,10
+ORD0512,2024-04-28,CUST760,Australia,Smartphone,Electronics,3,310.3,Credit Card,Yes,9
+ORD0513,2024-03-25,CUST465,USA,Office Chair,Furniture,1,114.84,COD,No,7
+ORD0514,2024-05-04,CUST561,UK,Backpack,Accessories,3,41.55,UPI,No,7
+ORD0515,2024-03-21,CUST538,USA,Laptop,Electronics,3,617.0,UPI,No,8
+ORD0516,2024-03-11,CUST960,UK,Headphones,Electronics,3,53.78,Debit Card,No,6
+ORD0517,2024-05-04,CUST664,India,Headphones,Electronics,5,45.82,Credit Card,No,4
+ORD0518,2024-05-17,CUST301,UK,Smartphone,Electronics,1,323.53,Wallet,No,8
+ORD0519,2024-05-31,CUST317,India,Yoga Mat,Sports,3,20.17,Wallet,No,4
+ORD0520,2024-04-03,CUST501,USA,Backpack,Accessories,3,37.07,Wallet,No,8
+ORD0521,2024-04-03,CUST614,India,Office Chair,Furniture,5,124.42,Wallet,No,4
+ORD0522,2024-02-15,CUST679,Australia,Headphones,Electronics,4,54.39,COD,No,9
+ORD0523,2024-02-29,CUST164,UK,Water Bottle,Home & Kitchen,2,9.09,UPI,No,7
+ORD0524,2024-04-09,CUST580,Canada,Laptop,Electronics,1,712.48,Credit Card,No,10
+ORD0525,2024-06-11,CUST949,UK,Desk,Furniture,5,201.77,UPI,No,8
+ORD0526,2024-04-03,CUST701,India,Yoga Mat,Sports,3,19.51,UPI,No,7
+ORD0527,2024-03-29,CUST598,Canada,Backpack,Accessories,1,40.01,UPI,No,5
+ORD0528,2024-01-20,CUST626,UK,Office Chair,Furniture,2,112.49,Credit Card,No,3
+ORD0529,2024-06-18,CUST335,Canada,Water Bottle,Home & Kitchen,1,9.96,Debit Card,No,4
+ORD0530,2024-06-14,CUST953,Canada,Laptop,Electronics,2,590.61,Wallet,No,4
+ORD0531,2024-06-10,CUST624,India,Backpack,Accessories,2,36.45,Credit Card,No,10
+ORD0532,2024-04-13,CUST713,Australia,Laptop,Electronics,3,708.14,UPI,No,9
+ORD0533,2024-05-03,CUST274,USA,Mixer Grinder,Home & Kitchen,5,74.28,Wallet,No,4
+ORD0534,2024-06-08,CUST775,Australia,Desk,Furniture,2,208.97,Credit Card,No,3
+ORD0535,2024-02-28,CUST487,Canada,Headphones,Electronics,1,45.17,Wallet,No,10
+ORD0536,2024-06-24,CUST529,USA,Backpack,Accessories,1,37.42,Wallet,No,10
+ORD0537,2024-05-08,CUST870,India,Smartphone,Electronics,4,309.56,Wallet,No,2
+ORD0538,2024-06-22,CUST764,Canada,Yoga Mat,Sports,4,19.48,COD,No,8
+ORD0539,2024-02-28,CUST921,Canada,Mixer Grinder,Home & Kitchen,3,81.42,Wallet,Yes,4
+ORD0540,2024-03-06,CUST588,USA,Smartphone,Electronics,3,305.9,Wallet,No,5
+ORD0541,2024-01-02,CUST826,India,Backpack,Accessories,5,36.94,COD,No,5
+ORD0542,2024-06-25,CUST923,UK,Mixer Grinder,Home & Kitchen,3,73.71,Debit Card,No,6
+ORD0543,2024-03-07,CUST975,Australia,Mixer Grinder,Home & Kitchen,5,77.85,Credit Card,No,8
+ORD0544,2024-02-22,CUST523,Australia,Yoga Mat,Sports,4,18.71,Wallet,No,6
+ORD0545,2024-03-19,CUST691,UK,Mixer Grinder,Home & Kitchen,2,85.68,COD,No,9
+ORD0546,2024-06-28,CUST265,India,Office Chair,Furniture,5,117.61,Credit Card,No,2
+ORD0547,2024-02-11,CUST498,India,Smartphone,Electronics,2,298.3,Wallet,No,3
+ORD0548,2024-03-08,CUST327,UK,Smartphone,Electronics,5,272.27,Debit Card,No,8
+ORD0549,2024-06-06,CUST771,Australia,Desk,Furniture,5,182.3,UPI,No,9
+ORD0550,2024-01-03,CUST306,Australia,Desk,Furniture,2,181.34,Wallet,No,5
+ORD0551,2024-06-06,CUST273,India,Water Bottle,Home & Kitchen,2,10.31,UPI,Yes,6
+ORD0552,2024-04-12,CUST461,Canada,Mixer Grinder,Home & Kitchen,5,75.2,COD,No,3
+ORD0553,2024-01-24,CUST662,UK,Yoga Mat,Sports,5,19.39,Credit Card,No,5
+ORD0554,2024-04-26,CUST513,Australia,Laptop,Electronics,3,607.75,Wallet,No,3
+ORD0555,2024-05-08,CUST401,UK,Smartphone,Electronics,5,327.4,Wallet,No,6
+ORD0556,2024-06-26,CUST553,Canada,Backpack,Accessories,4,42.16,Credit Card,No,9
+ORD0557,2024-06-23,CUST571,Australia,Laptop,Electronics,4,600.11,COD,No,5
+ORD0558,2024-06-22,CUST818,USA,Water Bottle,Home & Kitchen,4,10.91,Wallet,No,6
+ORD0559,2024-03-04,CUST394,India,Mixer Grinder,Home & Kitchen,3,73.22,UPI,No,7
+ORD0560,2024-02-25,CUST687,UK,Headphones,Electronics,2,49.99,UPI,No,5
+ORD0561,2024-03-08,CUST311,USA,Office Chair,Furniture,2,128.07,Credit Card,No,3
+ORD0562,2024-01-31,CUST180,Canada,Backpack,Accessories,1,42.11,Wallet,No,9
+ORD0563,2024-04-05,CUST735,UK,Running Shoes,Sports,5,64.43,Debit Card,No,10
+ORD0564,2024-03-12,CUST507,USA,Backpack,Accessories,2,36.43,Debit Card,No,10
+ORD0565,2024-01-09,CUST614,UK,Mixer Grinder,Home & Kitchen,2,79.32,COD,No,9
+ORD0566,2024-03-21,CUST805,India,Laptop,Electronics,2,634.33,COD,No,6
+ORD0567,2024-02-17,CUST661,UK,Office Chair,Furniture,3,119.31,Wallet,No,4
+ORD0568,2024-05-07,CUST534,USA,Mixer Grinder,Home & Kitchen,3,77.84,Debit Card,No,4
+ORD0569,2024-05-26,CUST234,Australia,Office Chair,Furniture,1,125.3,UPI,No,8
+ORD0570,2024-02-20,CUST249,USA,Running Shoes,Sports,1,56.12,Debit Card,No,10
+ORD0571,2024-05-16,CUST837,UK,Running Shoes,Sports,3,57.01,Wallet,Yes,3
+ORD0572,2024-06-25,CUST267,India,Office Chair,Furniture,3,119.44,COD,No,7
+ORD0573,2024-03-07,CUST469,UK,Yoga Mat,Sports,5,21.73,Credit Card,No,8
+ORD0574,2024-02-01,CUST459,Australia,Office Chair,Furniture,5,121.82,Wallet,No,6
+ORD0575,2024-03-31,CUST432,Australia,Running Shoes,Sports,4,64.68,Debit Card,No,9
+ORD0576,2024-06-10,CUST248,USA,Water Bottle,Home & Kitchen,4,10.26,Wallet,No,3
+ORD0577,2024-01-21,CUST265,UK,Office Chair,Furniture,3,115.61,Credit Card,No,8
+ORD0578,2024-03-10,CUST555,UK,Backpack,Accessories,5,43.72,Debit Card,No,2
+ORD0579,2024-02-02,CUST845,USA,Desk,Furniture,1,188.42,Debit Card,No,3
+ORD0580,2024-05-01,CUST661,India,Laptop,Electronics,4,653.12,COD,No,4
+ORD0581,2024-01-22,CUST770,Canada,Desk,Furniture,2,189.9,Credit Card,No,4
+ORD0582,2024-02-03,CUST639,USA,Laptop,Electronics,1,671.26,Credit Card,No,9
+ORD0583,2024-05-18,CUST378,Australia,Running Shoes,Sports,2,65.63,Wallet,No,9
+ORD0584,2024-06-10,CUST866,Australia,Mixer Grinder,Home & Kitchen,5,82.24,Wallet,No,7
+ORD0585,2024-05-03,CUST652,USA,Smartphone,Electronics,4,288.47,Debit Card,No,6
+ORD0586,2024-01-03,CUST100,Australia,Headphones,Electronics,3,47.87,Wallet,Yes,9
+ORD0587,2024-05-02,CUST406,India,Mixer Grinder,Home & Kitchen,3,81.55,COD,No,5
+ORD0588,2024-04-15,CUST674,Canada,Mixer Grinder,Home & Kitchen,2,74.61,Debit Card,No,5
+ORD0589,2024-03-08,CUST181,Canada,Office Chair,Furniture,5,126.35,Wallet,No,6
+ORD0590,2024-03-13,CUST764,Australia,Desk,Furniture,4,187.52,COD,No,6
+ORD0591,2024-01-29,CUST752,Canada,Backpack,Accessories,4,38.18,Wallet,No,7
+ORD0592,2024-01-05,CUST255,India,Yoga Mat,Sports,1,18.74,COD,No,4
+ORD0593,2024-04-22,CUST844,India,Office Chair,Furniture,1,111.62,Debit Card,No,8
+ORD0594,2024-03-20,CUST904,Canada,Water Bottle,Home & Kitchen,4,10.39,COD,No,4
+ORD0595,2024-01-15,CUST372,Canada,Smartphone,Electronics,5,298.21,UPI,No,6
+ORD0596,2024-04-07,CUST948,India,Smartphone,Electronics,2,293.09,Debit Card,No,2
+ORD0597,2024-02-20,CUST571,India,Yoga Mat,Sports,2,19.89,Credit Card,No,4
+ORD0598,2024-06-10,CUST845,India,Yoga Mat,Sports,5,18.49,Debit Card,No,5
+ORD0599,2024-04-02,CUST153,USA,Smartphone,Electronics,2,307.97,Credit Card,Yes,6
+ORD0600,2024-05-29,CUST222,Canada,Office Chair,Furniture,1,131.25,Wallet,No,9
+ORD0601,2024-06-25,CUST710,USA,Water Bottle,Home & Kitchen,1,9.5,Debit Card,Yes,7
+ORD0602,2024-06-09,CUST161,India,Water Bottle,Home & Kitchen,2,10.4,COD,No,5
+ORD0603,2024-03-22,CUST671,UK,Running Shoes,Sports,2,54.26,Debit Card,No,4
+ORD0604,2024-03-05,CUST140,Canada,Running Shoes,Sports,5,57.54,Debit Card,No,4
+ORD0605,2024-05-19,CUST456,UK,Running Shoes,Sports,3,64.41,Wallet,No,10
+ORD0606,2024-02-11,CUST170,Australia,Headphones,Electronics,4,47.96,Credit Card,No,9
+ORD0607,2024-01-01,CUST894,Australia,Mixer Grinder,Home & Kitchen,2,86.13,Wallet,No,5
+ORD0608,2024-03-23,CUST838,India,Yoga Mat,Sports,4,18.76,Debit Card,No,4
+ORD0609,2024-06-05,CUST389,UK,Mixer Grinder,Home & Kitchen,3,73.77,Wallet,No,2
+ORD0610,2024-02-03,CUST282,India,Office Chair,Furniture,1,119.65,COD,Yes,8
+ORD0611,2024-06-17,CUST601,Australia,Backpack,Accessories,5,38.05,Credit Card,No,3
+ORD0612,2024-01-04,CUST313,Canada,Smartphone,Electronics,4,318.06,COD,No,8
+ORD0613,2024-04-04,CUST913,India,Backpack,Accessories,3,40.23,COD,No,3
+ORD0614,2024-02-25,CUST631,India,Smartphone,Electronics,2,301.9,UPI,No,5
+ORD0615,2024-05-25,CUST740,USA,Yoga Mat,Sports,5,19.66,COD,No,7
+ORD0616,2024-06-21,CUST569,Canada,Smartphone,Electronics,2,317.55,Wallet,No,7
+ORD0617,2024-06-17,CUST261,Australia,Backpack,Accessories,4,43.47,Credit Card,No,7
+ORD0618,2024-04-05,CUST522,Canada,Water Bottle,Home & Kitchen,5,9.48,Wallet,No,10
+ORD0619,2024-03-06,CUST468,Canada,Running Shoes,Sports,4,54.0,COD,No,2
+ORD0620,2024-05-12,CUST238,UK,Laptop,Electronics,3,712.97,UPI,No,2
+ORD0621,2024-06-25,CUST942,UK,Yoga Mat,Sports,5,20.23,Wallet,No,2
+ORD0622,2024-04-27,CUST464,USA,Headphones,Electronics,3,48.67,Wallet,No,6
+ORD0623,2024-03-17,CUST194,Australia,Mixer Grinder,Home & Kitchen,5,86.69,COD,No,9
+ORD0624,2024-02-14,CUST599,Australia,Smartphone,Electronics,5,308.54,COD,No,8
+ORD0625,2024-01-21,CUST898,India,Water Bottle,Home & Kitchen,3,10.76,Debit Card,No,3
+ORD0626,2024-02-28,CUST865,Australia,Laptop,Electronics,4,592.04,Wallet,Yes,10
+ORD0627,2024-05-24,CUST253,UK,Yoga Mat,Sports,2,18.61,Debit Card,No,10
+ORD0628,2024-01-24,CUST327,Canada,Desk,Furniture,4,185.92,Credit Card,Yes,2
+ORD0629,2024-05-20,CUST508,UK,Smartphone,Electronics,4,300.11,UPI,No,9
+ORD0630,2024-05-23,CUST302,Canada,Mixer Grinder,Home & Kitchen,5,75.14,Wallet,No,10
+ORD0631,2024-03-04,CUST348,India,Desk,Furniture,4,192.94,Wallet,Yes,8
+ORD0632,2024-04-18,CUST474,UK,Office Chair,Furniture,3,116.27,COD,No,4
+ORD0633,2024-03-30,CUST731,Canada,Backpack,Accessories,2,39.52,UPI,No,7
+ORD0634,2024-02-09,CUST875,India,Smartphone,Electronics,1,284.58,Wallet,No,6
+ORD0635,2024-01-04,CUST451,India,Desk,Furniture,4,198.85,Credit Card,No,10
+ORD0636,2024-02-24,CUST308,Australia,Yoga Mat,Sports,3,20.2,Wallet,No,4
+ORD0637,2024-06-26,CUST815,India,Mixer Grinder,Home & Kitchen,5,86.5,Wallet,Yes,4
+ORD0638,2024-01-16,CUST390,USA,Backpack,Accessories,3,36.42,COD,Yes,6
+ORD0639,2024-06-18,CUST972,UK,Smartphone,Electronics,1,287.55,Debit Card,No,8
+ORD0640,2024-05-10,CUST826,India,Water Bottle,Home & Kitchen,4,10.73,Wallet,Yes,5
+ORD0641,2024-05-08,CUST568,Australia,Laptop,Electronics,1,617.16,Wallet,No,9
+ORD0642,2024-04-10,CUST862,USA,Laptop,Electronics,3,673.96,Credit Card,No,5
+ORD0643,2024-05-08,CUST382,India,Desk,Furniture,4,215.62,COD,No,6
+ORD0644,2024-02-27,CUST255,UK,Mixer Grinder,Home & Kitchen,2,73.4,Debit Card,No,5
+ORD0645,2024-04-16,CUST346,Australia,Headphones,Electronics,4,54.71,Wallet,No,10
+ORD0646,2024-02-03,CUST311,USA,Backpack,Accessories,5,41.47,UPI,No,6
+ORD0647,2024-06-25,CUST822,Australia,Headphones,Electronics,4,54.96,UPI,No,4
+ORD0648,2024-03-22,CUST169,Australia,Yoga Mat,Sports,1,18.74,UPI,No,7
+ORD0649,2024-04-15,CUST521,UK,Running Shoes,Sports,3,55.82,UPI,No,4
+ORD0650,2024-01-07,CUST880,Australia,Backpack,Accessories,3,40.84,Wallet,No,5
+ORD0651,2024-02-29,CUST803,India,Water Bottle,Home & Kitchen,1,10.38,Debit Card,No,9
+ORD0652,2024-06-15,CUST482,USA,Mixer Grinder,Home & Kitchen,4,79.58,UPI,No,2
+ORD0653,2024-04-14,CUST882,India,Desk,Furniture,4,188.9,UPI,No,3
+ORD0654,2024-02-15,CUST549,Australia,Running Shoes,Sports,3,64.4,UPI,No,2
+ORD0655,2024-06-04,CUST852,Canada,Water Bottle,Home & Kitchen,4,10.22,Wallet,No,10
+ORD0656,2024-06-13,CUST996,India,Yoga Mat,Sports,1,19.81,COD,No,5
+ORD0657,2024-05-12,CUST650,Canada,Laptop,Electronics,5,635.36,COD,No,9
+ORD0658,2024-04-11,CUST411,UK,Running Shoes,Sports,2,59.07,Wallet,No,10
+ORD0659,2024-02-06,CUST574,Canada,Smartphone,Electronics,5,276.79,Wallet,No,10
+ORD0660,2024-02-04,CUST502,Canada,Water Bottle,Home & Kitchen,4,9.05,Debit Card,No,5
+ORD0661,2024-04-26,CUST192,UK,Water Bottle,Home & Kitchen,2,10.44,COD,Yes,9
+ORD0662,2024-06-11,CUST471,India,Yoga Mat,Sports,4,20.91,Wallet,No,4
+ORD0663,2024-04-06,CUST663,Canada,Laptop,Electronics,2,703.59,Wallet,No,4
+ORD0664,2024-02-11,CUST989,USA,Headphones,Electronics,1,49.2,Credit Card,No,9
+ORD0665,2024-03-14,CUST741,USA,Smartphone,Electronics,2,327.63,COD,No,6
+ORD0666,2024-01-04,CUST569,Canada,Running Shoes,Sports,5,63.69,Wallet,No,5
+ORD0667,2024-02-25,CUST702,Canada,Running Shoes,Sports,4,59.3,Wallet,No,5
+ORD0668,2024-05-20,CUST384,Australia,Yoga Mat,Sports,2,18.2,UPI,Yes,7
+ORD0669,2024-01-10,CUST248,India,Backpack,Accessories,5,38.39,COD,Yes,8
+ORD0670,2024-02-15,CUST265,UK,Backpack,Accessories,5,40.58,Wallet,No,9
+ORD0671,2024-05-28,CUST468,India,Smartphone,Electronics,3,289.37,Debit Card,No,8
+ORD0672,2024-05-20,CUST166,UK,Running Shoes,Sports,2,55.46,Credit Card,No,8
+ORD0673,2024-05-14,CUST314,USA,Backpack,Accessories,1,36.87,Wallet,No,9
+ORD0674,2024-06-25,CUST719,UK,Mixer Grinder,Home & Kitchen,5,85.56,Credit Card,No,7
+ORD0675,2024-02-03,CUST729,Australia,Running Shoes,Sports,5,62.75,Debit Card,No,4
+ORD0676,2024-06-05,CUST338,UK,Office Chair,Furniture,1,110.84,Debit Card,No,3
+ORD0677,2024-02-23,CUST918,Australia,Mixer Grinder,Home & Kitchen,4,72.73,Credit Card,No,5
+ORD0678,2024-01-03,CUST755,USA,Desk,Furniture,3,211.61,Credit Card,No,10
+ORD0679,2024-03-23,CUST885,India,Smartphone,Electronics,3,290.48,Wallet,No,2
+ORD0680,2024-02-14,CUST298,UK,Water Bottle,Home & Kitchen,4,10.83,COD,No,9
+ORD0681,2024-02-09,CUST742,Canada,Yoga Mat,Sports,3,19.85,Debit Card,No,2
+ORD0682,2024-05-13,CUST406,Australia,Water Bottle,Home & Kitchen,5,10.07,UPI,No,7
+ORD0683,2024-03-31,CUST167,USA,Desk,Furniture,1,193.57,Debit Card,No,4
+ORD0684,2024-05-26,CUST720,Canada,Headphones,Electronics,5,46.17,Credit Card,No,7
+ORD0685,2024-06-30,CUST132,UK,Mixer Grinder,Home & Kitchen,1,79.95,UPI,No,6
+ORD0686,2024-02-25,CUST637,UK,Headphones,Electronics,1,48.74,COD,No,3
+ORD0687,2024-04-23,CUST618,India,Running Shoes,Sports,5,55.85,Credit Card,No,10
+ORD0688,2024-03-20,CUST894,UK,Headphones,Electronics,1,53.22,Wallet,No,4
+ORD0689,2024-02-22,CUST841,India,Running Shoes,Sports,4,62.56,Wallet,No,6
+ORD0690,2024-01-12,CUST803,Australia,Smartphone,Electronics,3,298.01,COD,No,6
+ORD0691,2024-01-06,CUST691,UK,Office Chair,Furniture,3,112.81,Credit Card,No,7
+ORD0692,2024-04-22,CUST787,India,Desk,Furniture,2,186.3,COD,Yes,10
+ORD0693,2024-05-11,CUST204,USA,Yoga Mat,Sports,3,20.2,Credit Card,No,6
+ORD0694,2024-05-26,CUST350,USA,Smartphone,Electronics,3,306.8,Credit Card,No,2
+ORD0695,2024-02-03,CUST129,Canada,Laptop,Electronics,1,634.87,COD,No,4
+ORD0696,2024-06-29,CUST710,Australia,Running Shoes,Sports,5,58.27,Credit Card,No,10
+ORD0697,2024-01-21,CUST873,Canada,Backpack,Accessories,2,36.74,Debit Card,Yes,6
+ORD0698,2024-06-24,CUST759,Canada,Running Shoes,Sports,2,65.37,UPI,No,6
+ORD0699,2024-04-03,CUST501,USA,Water Bottle,Home & Kitchen,3,9.91,COD,Yes,3
+ORD0700,2024-03-30,CUST590,Canada,Headphones,Electronics,3,52.68,Wallet,No,10
+ORD0701,2024-01-27,CUST515,India,Water Bottle,Home & Kitchen,5,10.3,Credit Card,No,8
+ORD0702,2024-05-31,CUST523,USA,Backpack,Accessories,2,40.38,Debit Card,No,7
+ORD0703,2024-02-23,CUST933,Australia,Mixer Grinder,Home & Kitchen,4,81.08,Credit Card,No,5
+ORD0704,2024-02-14,CUST778,India,Backpack,Accessories,4,36.91,Wallet,No,10
+ORD0705,2024-01-25,CUST941,Canada,Headphones,Electronics,3,54.56,COD,No,8
+ORD0706,2024-03-24,CUST606,India,Smartphone,Electronics,2,319.02,Wallet,No,2
+ORD0707,2024-02-07,CUST776,USA,Running Shoes,Sports,5,57.5,Wallet,No,5
+ORD0708,2024-02-22,CUST797,UK,Desk,Furniture,5,211.77,Credit Card,No,8
+ORD0709,2024-03-29,CUST191,Australia,Laptop,Electronics,5,713.23,Debit Card,No,6
+ORD0710,2024-01-16,CUST478,Australia,Laptop,Electronics,1,676.44,Credit Card,No,6
+ORD0711,2024-01-08,CUST340,Canada,Backpack,Accessories,4,41.0,Debit Card,No,8
+ORD0712,2024-05-19,CUST316,USA,Running Shoes,Sports,2,56.26,Debit Card,No,7
+ORD0713,2024-04-16,CUST257,UK,Headphones,Electronics,2,45.12,COD,No,9
+ORD0714,2024-06-17,CUST547,USA,Smartphone,Electronics,2,308.53,Debit Card,No,8
+ORD0715,2024-06-08,CUST284,Canada,Yoga Mat,Sports,4,20.21,Debit Card,No,5
+ORD0716,2024-02-17,CUST534,Australia,Laptop,Electronics,5,649.76,UPI,No,6
+ORD0717,2024-04-15,CUST659,Australia,Water Bottle,Home & Kitchen,1,10.96,Wallet,No,7
+ORD0718,2024-01-29,CUST694,Canada,Smartphone,Electronics,2,313.81,Wallet,No,6
+ORD0719,2024-04-29,CUST629,India,Yoga Mat,Sports,5,18.35,Debit Card,No,3
+ORD0720,2024-06-24,CUST748,Australia,Backpack,Accessories,3,40.9,Credit Card,No,2
+ORD0721,2024-04-30,CUST564,Australia,Running Shoes,Sports,5,62.81,Debit Card,No,6
+ORD0722,2024-03-15,CUST271,India,Backpack,Accessories,3,41.82,Wallet,No,9
+ORD0723,2024-05-28,CUST273,Australia,Laptop,Electronics,3,690.16,Wallet,Yes,9
+ORD0724,2024-01-22,CUST229,Australia,Smartphone,Electronics,3,285.12,Wallet,No,6
+ORD0725,2024-01-04,CUST859,India,Backpack,Accessories,2,43.28,UPI,No,7
+ORD0726,2024-02-14,CUST367,USA,Running Shoes,Sports,2,63.59,COD,No,3
+ORD0727,2024-02-07,CUST709,USA,Running Shoes,Sports,4,63.24,UPI,No,4
+ORD0728,2024-02-23,CUST691,UK,Laptop,Electronics,3,683.21,COD,Yes,9
+ORD0729,2024-04-12,CUST587,UK,Running Shoes,Sports,5,56.8,Debit Card,No,4
+ORD0730,2024-05-15,CUST991,Canada,Laptop,Electronics,3,705.54,Debit Card,No,7
+ORD0731,2024-05-15,CUST799,India,Smartphone,Electronics,5,308.25,Debit Card,No,6
+ORD0732,2024-03-26,CUST376,UK,Smartphone,Electronics,3,309.26,Debit Card,No,5
+ORD0733,2024-06-21,CUST702,USA,Yoga Mat,Sports,3,20.71,UPI,No,2
+ORD0734,2024-06-21,CUST108,India,Laptop,Electronics,4,597.7,COD,No,7
+ORD0735,2024-02-26,CUST842,UK,Desk,Furniture,2,181.36,Wallet,Yes,5
+ORD0736,2024-06-02,CUST753,India,Smartphone,Electronics,1,321.39,UPI,No,4
+ORD0737,2024-01-29,CUST812,USA,Desk,Furniture,3,198.68,COD,No,6
+ORD0738,2024-04-19,CUST808,UK,Desk,Furniture,2,211.23,Credit Card,No,8
+ORD0739,2024-04-09,CUST440,India,Desk,Furniture,3,187.12,COD,No,5
+ORD0740,2024-06-05,CUST502,USA,Running Shoes,Sports,1,55.73,Debit Card,No,3
+ORD0741,2024-04-23,CUST832,UK,Smartphone,Electronics,1,274.38,Wallet,No,9
+ORD0742,2024-01-05,CUST609,USA,Laptop,Electronics,1,671.4,Credit Card,No,7
+ORD0743,2024-04-10,CUST688,India,Yoga Mat,Sports,4,19.91,Debit Card,No,3
+ORD0744,2024-05-18,CUST331,India,Mixer Grinder,Home & Kitchen,4,73.94,Wallet,No,7
+ORD0745,2024-03-26,CUST798,UK,Mixer Grinder,Home & Kitchen,1,82.12,COD,No,7
+ORD0746,2024-01-21,CUST961,Canada,Desk,Furniture,2,187.06,COD,No,5
+ORD0747,2024-03-17,CUST812,Canada,Smartphone,Electronics,3,299.19,Debit Card,No,4
+ORD0748,2024-01-10,CUST297,India,Backpack,Accessories,2,39.91,COD,No,6
+ORD0749,2024-05-07,CUST646,Canada,Laptop,Electronics,1,629.11,Credit Card,No,2
+ORD0750,2024-04-13,CUST221,USA,Yoga Mat,Sports,4,21.76,Wallet,No,5
+ORD0751,2024-01-19,CUST137,USA,Running Shoes,Sports,1,59.65,Wallet,Yes,4
+ORD0752,2024-01-04,CUST276,India,Desk,Furniture,1,198.25,UPI,No,3
+ORD0753,2024-01-28,CUST216,Canada,Backpack,Accessories,5,37.76,UPI,No,8
+ORD0754,2024-03-24,CUST223,Australia,Yoga Mat,Sports,2,19.29,UPI,No,4
+ORD0755,2024-03-26,CUST164,India,Desk,Furniture,2,210.3,UPI,No,10
+ORD0756,2024-02-12,CUST549,USA,Backpack,Accessories,1,37.07,Wallet,No,4
+ORD0757,2024-01-05,CUST598,India,Laptop,Electronics,1,608.32,COD,No,6
+ORD0758,2024-04-16,CUST810,Canada,Headphones,Electronics,2,46.43,Credit Card,No,8
+ORD0759,2024-03-02,CUST278,Australia,Laptop,Electronics,5,608.4,Debit Card,No,3
+ORD0760,2024-06-09,CUST946,UK,Water Bottle,Home & Kitchen,4,9.01,UPI,No,10
+ORD0761,2024-01-25,CUST733,UK,Yoga Mat,Sports,5,18.88,UPI,No,5
+ORD0762,2024-01-29,CUST915,USA,Running Shoes,Sports,4,56.12,COD,Yes,7
+ORD0763,2024-03-13,CUST314,Canada,Desk,Furniture,3,204.67,Debit Card,Yes,2
+ORD0764,2024-05-17,CUST280,USA,Laptop,Electronics,4,651.94,COD,No,9
+ORD0765,2024-05-31,CUST693,UK,Mixer Grinder,Home & Kitchen,2,83.95,Credit Card,No,3
+ORD0766,2024-03-24,CUST333,India,Office Chair,Furniture,4,128.88,Debit Card,No,3
+ORD0767,2024-04-30,CUST699,Canada,Laptop,Electronics,4,603.84,Wallet,No,8
+ORD0768,2024-04-05,CUST239,Canada,Office Chair,Furniture,3,131.41,UPI,No,2
+ORD0769,2024-06-26,CUST682,India,Desk,Furniture,2,184.44,Debit Card,No,4
+ORD0770,2024-03-28,CUST325,UK,Backpack,Accessories,2,42.32,Wallet,No,10
+ORD0771,2024-02-28,CUST188,Canada,Yoga Mat,Sports,4,21.45,UPI,No,9
+ORD0772,2024-03-12,CUST114,Canada,Office Chair,Furniture,2,115.86,Wallet,No,4
+ORD0773,2024-05-26,CUST105,Canada,Laptop,Electronics,1,713.87,Wallet,Yes,10
+ORD0774,2024-04-10,CUST590,India,Running Shoes,Sports,4,56.89,Wallet,No,8
+ORD0775,2024-02-25,CUST235,UK,Desk,Furniture,2,205.91,COD,Yes,6
+ORD0776,2024-02-11,CUST820,Canada,Backpack,Accessories,5,36.2,Debit Card,No,4
+ORD0777,2024-06-29,CUST515,USA,Water Bottle,Home & Kitchen,4,10.41,COD,No,3
+ORD0778,2024-04-08,CUST807,UK,Yoga Mat,Sports,1,19.19,Credit Card,No,10
+ORD0779,2024-05-27,CUST913,USA,Smartphone,Electronics,5,322.85,COD,No,7
+ORD0780,2024-01-14,CUST213,Canada,Water Bottle,Home & Kitchen,4,10.24,Credit Card,No,10
+ORD0781,2024-06-29,CUST168,Australia,Office Chair,Furniture,2,131.55,UPI,No,9
+ORD0782,2024-05-28,CUST992,USA,Office Chair,Furniture,3,116.47,Credit Card,No,8
+ORD0783,2024-03-11,CUST155,India,Water Bottle,Home & Kitchen,3,9.9,Wallet,No,3
+ORD0784,2024-04-30,CUST826,Australia,Yoga Mat,Sports,3,19.81,Credit Card,No,3
+ORD0785,2024-02-18,CUST568,India,Smartphone,Electronics,4,323.88,Credit Card,No,3
+ORD0786,2024-01-28,CUST268,UK,Smartphone,Electronics,2,299.78,UPI,No,2
+ORD0787,2024-03-16,CUST526,Australia,Headphones,Electronics,4,48.47,Debit Card,No,2
+ORD0788,2024-03-15,CUST293,India,Laptop,Electronics,2,693.54,Wallet,No,8
+ORD0789,2024-05-28,CUST451,UK,Running Shoes,Sports,5,61.99,Wallet,No,9
+ORD0790,2024-04-27,CUST411,Australia,Headphones,Electronics,3,46.72,Credit Card,No,7
+ORD0791,2024-03-14,CUST888,India,Headphones,Electronics,3,47.84,UPI,No,4
+ORD0792,2024-05-17,CUST392,USA,Headphones,Electronics,2,46.61,COD,Yes,7
+ORD0793,2024-05-27,CUST229,Canada,Desk,Furniture,3,187.38,Wallet,No,7
+ORD0794,2024-03-29,CUST251,UK,Running Shoes,Sports,5,65.71,Wallet,No,2
+ORD0795,2024-04-13,CUST611,USA,Running Shoes,Sports,3,55.87,Wallet,No,7
+ORD0796,2024-06-14,CUST822,UK,Running Shoes,Sports,3,65.64,Wallet,No,9
+ORD0797,2024-03-27,CUST805,India,Running Shoes,Sports,1,55.67,Wallet,No,2
+ORD0798,2024-04-12,CUST732,USA,Running Shoes,Sports,3,55.11,COD,No,5
+ORD0799,2024-05-29,CUST639,USA,Desk,Furniture,2,180.9,Wallet,No,3
+ORD0800,2024-05-11,CUST503,USA,Running Shoes,Sports,3,61.24,Wallet,No,7
+ORD0801,2024-04-11,CUST251,Canada,Water Bottle,Home & Kitchen,4,9.75,Credit Card,No,6
+ORD0802,2024-04-24,CUST995,Australia,Smartphone,Electronics,2,313.67,Debit Card,No,8
+ORD0803,2024-04-23,CUST395,USA,Mixer Grinder,Home & Kitchen,4,74.23,Wallet,No,4
+ORD0804,2024-02-23,CUST410,Canada,Yoga Mat,Sports,3,18.26,Wallet,No,3
+ORD0805,2024-01-02,CUST519,UK,Mixer Grinder,Home & Kitchen,2,80.89,Wallet,No,4
+ORD0806,2024-02-21,CUST290,Canada,Desk,Furniture,5,199.62,Credit Card,No,6
+ORD0807,2024-05-06,CUST672,Canada,Office Chair,Furniture,1,126.99,UPI,No,9
+ORD0808,2024-02-01,CUST769,UK,Mixer Grinder,Home & Kitchen,2,79.87,UPI,Yes,6
+ORD0809,2024-05-06,CUST168,Australia,Water Bottle,Home & Kitchen,5,9.96,Debit Card,No,9
+ORD0810,2024-06-26,CUST937,India,Water Bottle,Home & Kitchen,5,10.47,COD,No,4
+ORD0811,2024-05-28,CUST159,USA,Water Bottle,Home & Kitchen,4,10.76,UPI,No,2
+ORD0812,2024-03-10,CUST469,Canada,Water Bottle,Home & Kitchen,1,9.58,Wallet,No,3
+ORD0813,2024-05-11,CUST298,USA,Smartphone,Electronics,5,315.16,Wallet,No,7
+ORD0814,2024-06-24,CUST919,UK,Desk,Furniture,3,183.83,Wallet,No,4
+ORD0815,2024-01-04,CUST240,Australia,Desk,Furniture,3,211.15,Debit Card,No,4
+ORD0816,2024-01-27,CUST323,USA,Yoga Mat,Sports,2,21.33,Wallet,No,10
+ORD0817,2024-05-16,CUST829,Australia,Smartphone,Electronics,4,297.63,COD,No,4
+ORD0818,2024-01-05,CUST591,UK,Desk,Furniture,3,185.56,Debit Card,No,10
+ORD0819,2024-03-28,CUST276,UK,Laptop,Electronics,1,613.91,UPI,No,6
+ORD0820,2024-02-02,CUST314,USA,Smartphone,Electronics,4,311.45,COD,Yes,9
+ORD0821,2024-04-20,CUST143,USA,Smartphone,Electronics,1,317.58,Wallet,No,9
+ORD0822,2024-01-31,CUST359,India,Smartphone,Electronics,3,310.06,COD,No,5
+ORD0823,2024-05-30,CUST304,USA,Water Bottle,Home & Kitchen,1,9.18,Credit Card,No,7
+ORD0824,2024-03-31,CUST264,Australia,Backpack,Accessories,2,40.04,COD,Yes,2
+ORD0825,2024-05-15,CUST322,USA,Desk,Furniture,2,216.07,Wallet,Yes,3
+ORD0826,2024-02-24,CUST616,Canada,Water Bottle,Home & Kitchen,5,9.37,COD,No,7
+ORD0827,2024-04-07,CUST534,USA,Yoga Mat,Sports,2,19.63,Credit Card,No,3
+ORD0828,2024-05-13,CUST239,Canada,Water Bottle,Home & Kitchen,3,10.11,COD,Yes,9
+ORD0829,2024-01-30,CUST494,UK,Running Shoes,Sports,5,62.83,Debit Card,No,8
+ORD0830,2024-03-15,CUST975,Canada,Office Chair,Furniture,1,129.47,Debit Card,No,7
+ORD0831,2024-02-15,CUST113,Canada,Smartphone,Electronics,4,296.28,COD,No,8
+ORD0832,2024-04-12,CUST811,Australia,Smartphone,Electronics,2,273.88,UPI,No,8
+ORD0833,2024-02-01,CUST338,Canada,Running Shoes,Sports,3,63.18,Wallet,No,8
+ORD0834,2024-04-01,CUST587,Australia,Mixer Grinder,Home & Kitchen,4,80.18,UPI,No,3
+ORD0835,2024-02-01,CUST356,Canada,Running Shoes,Sports,2,61.54,UPI,Yes,2
+ORD0836,2024-01-18,CUST610,India,Headphones,Electronics,4,51.05,Credit Card,No,3
+ORD0837,2024-01-20,CUST776,Australia,Running Shoes,Sports,4,56.42,Debit Card,No,6
+ORD0838,2024-05-18,CUST451,Australia,Yoga Mat,Sports,1,21.81,COD,No,3
+ORD0839,2024-04-08,CUST560,UK,Mixer Grinder,Home & Kitchen,4,79.35,COD,No,6
+ORD0840,2024-06-29,CUST268,Canada,Mixer Grinder,Home & Kitchen,2,77.0,Debit Card,No,3
+ORD0841,2024-05-25,CUST791,Canada,Yoga Mat,Sports,5,20.29,Debit Card,No,4
+ORD0842,2024-05-09,CUST157,Canada,Desk,Furniture,4,203.64,Debit Card,No,7
+ORD0843,2024-03-13,CUST428,India,Laptop,Electronics,5,590.87,Credit Card,No,2
+ORD0844,2024-06-09,CUST449,Canada,Smartphone,Electronics,4,290.71,Credit Card,No,2
+ORD0845,2024-06-18,CUST350,USA,Office Chair,Furniture,3,122.22,COD,No,3
+ORD0846,2024-03-27,CUST273,India,Yoga Mat,Sports,3,18.15,Debit Card,No,8
+ORD0847,2024-03-09,CUST120,Canada,Backpack,Accessories,1,43.89,Debit Card,No,7
+ORD0848,2024-05-26,CUST200,Canada,Smartphone,Electronics,2,290.16,Wallet,No,7
+ORD0849,2024-02-12,CUST729,UK,Water Bottle,Home & Kitchen,4,9.4,COD,No,10
+ORD0850,2024-02-24,CUST394,UK,Laptop,Electronics,3,714.51,Debit Card,No,3
+ORD0851,2024-05-28,CUST197,Australia,Water Bottle,Home & Kitchen,3,9.13,Wallet,No,5
+ORD0852,2024-03-29,CUST914,India,Desk,Furniture,5,212.17,Debit Card,No,7
+ORD0853,2024-02-21,CUST524,Canada,Desk,Furniture,5,200.61,Wallet,No,2
+ORD0854,2024-06-09,CUST820,Australia,Headphones,Electronics,5,49.99,Debit Card,No,10
+ORD0855,2024-06-06,CUST973,Canada,Backpack,Accessories,1,40.18,Credit Card,No,5
+ORD0856,2024-02-08,CUST864,UK,Mixer Grinder,Home & Kitchen,4,77.1,COD,No,8
+ORD0857,2024-03-09,CUST943,UK,Headphones,Electronics,3,51.87,UPI,No,3
+ORD0858,2024-02-08,CUST296,India,Office Chair,Furniture,3,119.14,Wallet,No,8
+ORD0859,2024-06-14,CUST137,USA,Headphones,Electronics,3,46.36,Credit Card,No,6
+ORD0860,2024-06-17,CUST663,USA,Laptop,Electronics,4,686.69,COD,No,3
+ORD0861,2024-03-21,CUST716,UK,Smartphone,Electronics,4,323.81,COD,No,4
+ORD0862,2024-03-01,CUST214,Australia,Yoga Mat,Sports,1,20.09,Wallet,No,10
+ORD0863,2024-03-05,CUST608,India,Office Chair,Furniture,5,110.93,Credit Card,No,8
+ORD0864,2024-03-01,CUST533,USA,Headphones,Electronics,1,46.75,Credit Card,No,6
+ORD0865,2024-05-30,CUST157,Canada,Yoga Mat,Sports,3,20.8,COD,No,8
+ORD0866,2024-05-01,CUST799,USA,Desk,Furniture,2,194.52,Credit Card,No,2
+ORD0867,2024-06-14,CUST720,India,Laptop,Electronics,2,617.89,Debit Card,No,7
+ORD0868,2024-06-24,CUST224,Australia,Office Chair,Furniture,4,117.32,Debit Card,No,6
+ORD0869,2024-03-18,CUST192,USA,Desk,Furniture,2,214.38,UPI,No,7
+ORD0870,2024-06-13,CUST516,India,Desk,Furniture,1,212.93,Debit Card,No,8
+ORD0871,2024-03-26,CUST834,Canada,Smartphone,Electronics,2,311.91,Wallet,Yes,8
+ORD0872,2024-06-03,CUST846,Australia,Water Bottle,Home & Kitchen,4,10.39,COD,No,4
+ORD0873,2024-06-10,CUST554,USA,Laptop,Electronics,4,611.01,Credit Card,No,3
+ORD0874,2024-01-29,CUST261,USA,Yoga Mat,Sports,2,21.39,Debit Card,No,7
+ORD0875,2024-04-25,CUST589,USA,Desk,Furniture,2,207.5,Credit Card,No,5
+ORD0876,2024-01-22,CUST524,UK,Headphones,Electronics,4,53.76,Wallet,No,2
+ORD0877,2024-05-22,CUST762,Australia,Office Chair,Furniture,1,131.38,UPI,No,4
+ORD0878,2024-01-13,CUST510,Australia,Mixer Grinder,Home & Kitchen,5,76.16,COD,No,4
+ORD0879,2024-05-25,CUST220,India,Yoga Mat,Sports,4,21.09,Debit Card,No,9
+ORD0880,2024-01-31,CUST329,USA,Office Chair,Furniture,3,114.91,Debit Card,No,8
+ORD0881,2024-02-22,CUST714,USA,Desk,Furniture,2,196.73,Debit Card,No,2
+ORD0882,2024-03-15,CUST368,USA,Backpack,Accessories,4,43.26,Credit Card,No,9
+ORD0883,2024-01-22,CUST110,Canada,Headphones,Electronics,3,54.74,Debit Card,No,8
+ORD0884,2024-06-30,CUST533,Australia,Desk,Furniture,1,183.81,COD,Yes,5
+ORD0885,2024-04-30,CUST462,Australia,Backpack,Accessories,1,36.04,Wallet,No,6
+ORD0886,2024-04-11,CUST787,UK,Headphones,Electronics,5,45.41,UPI,No,10
+ORD0887,2024-05-06,CUST447,Canada,Headphones,Electronics,1,48.17,Wallet,No,6
+ORD0888,2024-01-30,CUST420,India,Headphones,Electronics,4,53.72,Credit Card,No,8
+ORD0889,2024-03-13,CUST997,UK,Backpack,Accessories,3,40.14,Debit Card,No,7
+ORD0890,2024-05-05,CUST882,USA,Yoga Mat,Sports,4,18.21,UPI,Yes,4
+ORD0891,2024-01-10,CUST581,UK,Headphones,Electronics,4,49.36,Debit Card,Yes,7
+ORD0892,2024-06-30,CUST674,Canada,Running Shoes,Sports,4,55.35,UPI,No,3
+ORD0893,2024-02-22,CUST989,UK,Headphones,Electronics,2,52.5,Credit Card,No,5
+ORD0894,2024-05-29,CUST104,Australia,Backpack,Accessories,2,39.33,COD,No,9
+ORD0895,2024-06-22,CUST196,UK,Laptop,Electronics,3,673.57,COD,No,3
+ORD0896,2024-03-23,CUST257,India,Smartphone,Electronics,4,319.84,Debit Card,No,6
+ORD0897,2024-06-01,CUST773,India,Water Bottle,Home & Kitchen,1,10.31,Debit Card,No,4
+ORD0898,2024-02-24,CUST983,India,Desk,Furniture,3,211.93,COD,No,8
+ORD0899,2024-01-24,CUST508,UK,Headphones,Electronics,2,54.65,Debit Card,Yes,5
+ORD0900,2024-02-11,CUST497,Canada,Desk,Furniture,2,184.82,Debit Card,No,6
+ORD0901,2024-06-24,CUST717,USA,Water Bottle,Home & Kitchen,1,10.66,Wallet,No,9
+ORD0902,2024-04-09,CUST587,UK,Backpack,Accessories,5,39.38,Debit Card,No,4
+ORD0903,2024-04-21,CUST745,Canada,Smartphone,Electronics,1,300.8,Debit Card,No,4
+ORD0904,2024-05-06,CUST639,Australia,Smartphone,Electronics,3,298.09,COD,No,9
+ORD0905,2024-03-17,CUST252,USA,Desk,Furniture,2,200.92,Credit Card,No,10
+ORD0906,2024-01-20,CUST146,Australia,Smartphone,Electronics,5,295.49,COD,No,6
+ORD0907,2024-03-31,CUST360,Australia,Smartphone,Electronics,5,270.98,Debit Card,No,4
+ORD0908,2024-04-10,CUST146,India,Mixer Grinder,Home & Kitchen,3,77.02,Debit Card,No,9
+ORD0909,2024-06-08,CUST927,UK,Water Bottle,Home & Kitchen,2,9.42,COD,No,6
+ORD0910,2024-06-21,CUST208,Canada,Yoga Mat,Sports,1,18.02,COD,Yes,9
+ORD0911,2024-04-27,CUST808,Canada,Backpack,Accessories,4,38.42,Wallet,No,8
+ORD0912,2024-03-18,CUST189,USA,Headphones,Electronics,1,46.91,COD,No,5
+ORD0913,2024-01-07,CUST314,Canada,Headphones,Electronics,2,49.36,Wallet,No,6
+ORD0914,2024-04-28,CUST251,Canada,Mixer Grinder,Home & Kitchen,1,73.86,UPI,No,9
+ORD0915,2024-05-04,CUST582,India,Running Shoes,Sports,5,56.91,Credit Card,No,8
+ORD0916,2024-01-14,CUST441,India,Smartphone,Electronics,4,328.77,Debit Card,No,10
+ORD0917,2024-03-15,CUST137,Canada,Mixer Grinder,Home & Kitchen,4,80.21,Wallet,No,9
+ORD0918,2024-02-29,CUST831,India,Yoga Mat,Sports,1,19.69,Credit Card,No,6
+ORD0919,2024-06-14,CUST527,Canada,Smartphone,Electronics,4,307.36,Credit Card,No,8
+ORD0920,2024-01-06,CUST265,UK,Office Chair,Furniture,4,116.25,UPI,No,7
+ORD0921,2024-06-03,CUST973,Canada,Headphones,Electronics,3,52.23,Debit Card,No,7
+ORD0922,2024-04-30,CUST918,USA,Backpack,Accessories,2,38.26,COD,No,4
+ORD0923,2024-02-14,CUST304,USA,Backpack,Accessories,4,36.81,Debit Card,No,9
+ORD0924,2024-03-18,CUST340,USA,Yoga Mat,Sports,1,22.0,Credit Card,No,7
+ORD0925,2024-06-22,CUST262,USA,Yoga Mat,Sports,1,21.23,Credit Card,No,5
+ORD0926,2024-01-31,CUST675,USA,Running Shoes,Sports,3,65.92,Credit Card,No,10
+ORD0927,2024-03-09,CUST254,Australia,Backpack,Accessories,1,41.65,Debit Card,No,3
+ORD0928,2024-01-28,CUST900,Australia,Backpack,Accessories,1,42.59,COD,No,4
+ORD0929,2024-06-10,CUST220,USA,Water Bottle,Home & Kitchen,2,10.46,Debit Card,No,9
+ORD0930,2024-01-26,CUST257,UK,Water Bottle,Home & Kitchen,2,9.25,UPI,No,8
+ORD0931,2024-01-02,CUST351,Canada,Water Bottle,Home & Kitchen,3,10.01,COD,No,8
+ORD0932,2024-04-02,CUST744,USA,Headphones,Electronics,5,49.22,UPI,No,8
+ORD0933,2024-04-15,CUST519,Canada,Yoga Mat,Sports,3,21.77,Debit Card,No,2
+ORD0934,2024-05-12,CUST171,India,Water Bottle,Home & Kitchen,3,9.8,UPI,No,8
+ORD0935,2024-01-10,CUST776,USA,Backpack,Accessories,1,43.82,Wallet,No,8
+ORD0936,2024-04-12,CUST797,Australia,Desk,Furniture,3,216.37,COD,No,10
+ORD0937,2024-06-05,CUST250,Canada,Running Shoes,Sports,2,64.65,Wallet,No,9
+ORD0938,2024-06-27,CUST453,Canada,Office Chair,Furniture,3,110.02,Wallet,No,4
+ORD0939,2024-05-13,CUST653,UK,Office Chair,Furniture,1,120.28,Credit Card,No,4
+ORD0940,2024-01-06,CUST128,Australia,Backpack,Accessories,3,37.93,Credit Card,No,10
+ORD0941,2024-01-29,CUST849,India,Water Bottle,Home & Kitchen,3,10.25,Credit Card,No,3
+ORD0942,2024-04-24,CUST405,Australia,Laptop,Electronics,4,629.07,UPI,No,10
+ORD0943,2024-06-01,CUST339,UK,Desk,Furniture,3,206.68,Wallet,No,8
+ORD0944,2024-05-13,CUST855,USA,Smartphone,Electronics,3,300.99,UPI,No,7
+ORD0945,2024-04-26,CUST200,USA,Mixer Grinder,Home & Kitchen,4,73.31,COD,No,4
+ORD0946,2024-05-01,CUST319,Canada,Smartphone,Electronics,3,310.61,Debit Card,No,10
+ORD0947,2024-04-11,CUST992,UK,Backpack,Accessories,4,41.09,Debit Card,No,9
+ORD0948,2024-04-16,CUST943,USA,Headphones,Electronics,5,46.27,Debit Card,No,10
+ORD0949,2024-05-15,CUST220,USA,Running Shoes,Sports,4,54.39,UPI,No,7
+ORD0950,2024-01-31,CUST716,Canada,Smartphone,Electronics,1,292.18,Credit Card,Yes,4
+ORD0951,2024-01-31,CUST480,UK,Water Bottle,Home & Kitchen,3,9.59,COD,No,4
+ORD0952,2024-05-30,CUST531,India,Desk,Furniture,3,188.62,Debit Card,Yes,10
+ORD0953,2024-03-30,CUST169,India,Mixer Grinder,Home & Kitchen,4,81.17,Wallet,No,7
+ORD0954,2024-04-06,CUST586,Australia,Headphones,Electronics,2,50.05,Debit Card,No,9
+ORD0955,2024-02-08,CUST987,UK,Smartphone,Electronics,5,309.87,Debit Card,No,8
+ORD0956,2024-03-27,CUST653,India,Running Shoes,Sports,3,61.75,UPI,No,6
+ORD0957,2024-05-23,CUST760,India,Yoga Mat,Sports,1,18.77,Wallet,No,2
+ORD0958,2024-05-25,CUST634,USA,Running Shoes,Sports,5,64.76,COD,No,10
+ORD0959,2024-02-16,CUST119,UK,Office Chair,Furniture,2,127.91,Wallet,No,10
+ORD0960,2024-06-04,CUST428,Canada,Backpack,Accessories,1,39.93,COD,No,4
+ORD0961,2024-04-16,CUST124,Australia,Water Bottle,Home & Kitchen,4,9.51,COD,No,10
+ORD0962,2024-02-13,CUST392,USA,Headphones,Electronics,3,52.68,UPI,No,8
+ORD0963,2024-06-22,CUST273,India,Backpack,Accessories,3,37.45,COD,No,3
+ORD0964,2024-03-22,CUST245,Canada,Water Bottle,Home & Kitchen,3,9.75,COD,Yes,5
+ORD0965,2024-06-01,CUST700,USA,Running Shoes,Sports,5,63.03,Debit Card,No,6
+ORD0966,2024-01-16,CUST425,Canada,Yoga Mat,Sports,4,18.26,COD,No,5
+ORD0967,2024-01-05,CUST375,Australia,Backpack,Accessories,1,37.97,Wallet,No,4
+ORD0968,2024-03-18,CUST681,Canada,Running Shoes,Sports,1,64.16,Wallet,No,4
+ORD0969,2024-04-05,CUST653,USA,Office Chair,Furniture,5,130.86,Wallet,No,2
+ORD0970,2024-04-28,CUST949,Australia,Desk,Furniture,2,180.02,Debit Card,No,6
+ORD0971,2024-06-23,CUST489,UK,Office Chair,Furniture,5,128.18,Credit Card,Yes,10
+ORD0972,2024-05-24,CUST171,UK,Smartphone,Electronics,4,311.91,UPI,No,6
+ORD0973,2024-04-20,CUST315,Australia,Yoga Mat,Sports,3,21.54,Credit Card,No,9
+ORD0974,2024-03-10,CUST351,UK,Water Bottle,Home & Kitchen,2,9.92,Wallet,No,4
+ORD0975,2024-06-14,CUST102,Australia,Running Shoes,Sports,1,64.82,UPI,No,9
+ORD0976,2024-04-10,CUST651,India,Smartphone,Electronics,5,271.86,Debit Card,No,7
+ORD0977,2024-04-06,CUST947,Australia,Water Bottle,Home & Kitchen,4,9.35,COD,No,7
+ORD0978,2024-02-19,CUST555,India,Office Chair,Furniture,1,126.2,Credit Card,No,6
+ORD0979,2024-02-26,CUST339,Canada,Water Bottle,Home & Kitchen,1,9.56,Wallet,No,5
+ORD0980,2024-06-12,CUST505,India,Desk,Furniture,5,200.01,UPI,No,4
+ORD0981,2024-01-17,CUST702,USA,Smartphone,Electronics,2,285.58,Wallet,No,10
+ORD0982,2024-03-11,CUST296,India,Yoga Mat,Sports,5,19.01,Wallet,No,2
+ORD0983,2024-04-19,CUST756,India,Water Bottle,Home & Kitchen,4,10.69,Debit Card,No,10
+ORD0984,2024-04-29,CUST607,UK,Yoga Mat,Sports,1,21.54,UPI,Yes,8
+ORD0985,2024-05-16,CUST559,UK,Laptop,Electronics,4,610.3,COD,No,2
+ORD0986,2024-02-27,CUST806,Canada,Smartphone,Electronics,2,281.81,Credit Card,No,3
+ORD0987,2024-01-08,CUST591,Canada,Laptop,Electronics,5,688.64,Credit Card,No,5
+ORD0988,2024-01-28,CUST584,USA,Water Bottle,Home & Kitchen,1,10.64,Wallet,No,3
+ORD0989,2024-06-02,CUST734,Canada,Smartphone,Electronics,4,304.74,COD,No,2
+ORD0990,2024-04-06,CUST420,India,Headphones,Electronics,1,54.19,Debit Card,Yes,8
+ORD0991,2024-01-17,CUST204,India,Yoga Mat,Sports,1,19.18,Debit Card,No,8
+ORD0992,2024-02-29,CUST985,Australia,Backpack,Accessories,1,39.63,Debit Card,No,3
+ORD0993,2024-03-27,CUST766,India,Running Shoes,Sports,5,57.94,UPI,No,2
+ORD0994,2024-06-01,CUST830,India,Backpack,Accessories,2,43.23,UPI,No,6
+ORD0995,2024-03-31,CUST531,Canada,Backpack,Accessories,4,37.49,UPI,No,2
+ORD0996,2024-02-02,CUST419,Australia,Mixer Grinder,Home & Kitchen,5,87.36,Credit Card,No,10
+ORD0997,2024-02-07,CUST250,Canada,Desk,Furniture,5,193.72,Credit Card,No,10
+ORD0998,2024-05-30,CUST773,USA,Laptop,Electronics,2,650.92,Wallet,No,8
+ORD0999,2024-03-29,CUST300,USA,Office Chair,Furniture,1,116.2,Debit Card,No,9
+ORD1000,2024-06-02,CUST809,UK,Backpack,Accessories,5,43.7,Wallet,No,7
