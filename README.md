@@ -56,7 +56,7 @@ The dashboard was designed to answer the following questions:
 - **Technology products** dominate revenue contribution, followed by Office Supplies and Furniture.  
 - A small group of **top 10 customers** contributes a large share of total revenue.  
 - Sales are concentrated in **key countries** like the USA, UK, India, and Australia.  
-- Some products (like **smartphones and office chairs**) consistently drive the highest sales.  
+- Some products (like **smartphones and laptops**) consistently drive the highest sales.  
 - The **monthly sales trend** shows fluctuations, highlighting peak and slow business periods.  
 
 ---
